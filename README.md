@@ -32,3 +32,5 @@ Installed the OverbiteWX and OverbiteNX [FireFox addons](https://addons.mozilla.
 hooks/post-receive
 
     GIT_WORK_TREE=/var/www/home.murphy-bove.net/html git checkout -f
+
+> **TIP** Don't forget to `chmod +x hooks/post-receive` !
