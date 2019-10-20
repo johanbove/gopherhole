@@ -1,14 +1,13 @@
 Welcome to Johan's Gopherhole!
 
-This Gopher server is running on Pygopherd on a Raspberry Pi 3.
-
 **WARNING**
-I have no idea what I'm doing. This is my first every go at Gopher.
+I have no idea what I'm doing. This is my first every _go_ at Gopher.
 
 On this server
 1My Phlog	/phlog	gopher.johanbove.info	70
-0About	/about
-0Changelog	/changelog
+1Phlogroll	/phlogroll gopher.johanbove.info	70
+0About	/about	gopher.johanbove.info	70
+0Changelog	/changelog	gopher.johanbove.info	70
 
 About Gopher
 1Pygopherd Home	/devel/gopher/pygopherd	gopher.quux.org	70
