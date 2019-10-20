@@ -1,18 +1,21 @@
-# Welcome to Johan's Gopherhole!
+Welcome to Johan's Gopherhole!
 
-Running on Pygopherd.
+This Gopher server is running on Pygopherd on a Raspberry Pi 3.
 
-## About Gopher
+**WARNING**
+I have no idea what I'm doing. This is my first every go at Gopher.
+
+On this server
+0About	/about	192.168.0.194	70
+0News	/news	192.168.0.194	70
+
+About Gopher
 1Pygopherd Home	/devel/gopher/pygopherd	gopher.quux.org	70
 1Quux.Org Mega Server	/	gopher.quux.org	70
 1The Gopher Project	/Software/Gopher	gopher.quux.org	70
 1Traditional UMN Home Gopher	/	gopher.tc.umn.edu	70
 
-## On this server
-0About	/about.txt	192.168.0.194	70
-0News	/news.txt	192.168.0.194	70
-
-## External Gopher Links
+External Gopher Links
 0How to gophermap	phlog/fs20181102.txt	baud.baby	70
 
 .
