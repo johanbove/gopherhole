@@ -1,21 +1,16 @@
 Welcome to Johan's Gopherhole!
 
-**WARNING**
-I have no idea what I'm doing. This is my first ever _go_ at Gopher.
-
 On this server
-1My Phlog	/phlog	gopher.johanbove.info	70	+
-1Phlogroll	/phlogroll	gopher.johanbove.info	70	+
 0About	/about	gopher.johanbove.info	70	+
 0Changelog	/changelog	gopher.johanbove.info	70	+
+1My Phlog	/phlog	gopher.johanbove.info	70	+
+1Phlogroll	/phlogroll	gopher.johanbove.info	70	+
 
 About Gopher
 1Pygopherd Home	/devel/gopher/pygopherd	gopher.quux.org	70
 1Quux.Org Mega Server	/	gopher.quux.org	70
 1The Gopher Project	/Software/Gopher	gopher.quux.org	70
 1Traditional UMN Home Gopher	/	gopher.tc.umn.edu	70
-
-External Gopher Links
 0How to gophermap	phlog/fs20181102.txt	baud.baby	70
 
 EOF
