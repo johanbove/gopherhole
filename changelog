@@ -1,7 +1,11 @@
+# 2019-10-21
+- Fixed some formatting issues in the content files.
+
+
 # 2019-10-20
 - Initial set up of the site served by Pygopherd on the Raspberry Pi3.
 - Figuring out how to use gopher
 - Configured DNS forwarding for gopher.johanbove.info
 - Added content for phlog, phogroll, about and changelog
 
-.
+EOF
