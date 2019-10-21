@@ -2,6 +2,8 @@
 
 # October 21st, 2019
 
+## IndieWeb
+
 You know what I really love about the #Indieweb is how all documentation and
 communication between the enthusiasts is so well organised and perfectly
 made available for future reference and it all is linked up really well
@@ -9,7 +11,12 @@ together. You can keep up-to-date with the latest info by simply visiting
 the IRC chat logs from time to time.
 
 hIndieWeb IRC #meta channel Archive	/URL:https://chat.indieweb.org/meta/
-hThe IndieWeb Wiki	/URL:https://www.indieweb.org/
+hThe IndieWeb Wiki	/URL:https://indieweb.org/
+
+## Reading List
+
+hRise and Fall of the Gopher Protocol	/URL:https://www.minnpost.com/business/2016/08/rise-and-fall-gopher-protocol/
+hPyGopherd Manual	/URL:https://raw.githubusercontent.com/jgoerzen/pygopherd/master/doc/pygopherd.txt
 
 # October 20th, 2019
 
@@ -32,4 +39,4 @@ Literally, today is the very first time I browsed the Gopher Web and it feels
 very old-school, bringing back the good old felz of text-only browsing with
 Lynx.
 
-EOF
+
