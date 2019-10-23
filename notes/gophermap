@@ -58,8 +58,10 @@ hFirst Pygopherd commit on Github	/URL:https://github.com/jgoerzen/pygopherd/com
 
 ## Wondering how to align my text like it's 1991 ####################
 
-Baud.baby has phlog entries with beautifully justified paragraphs.
+Baud.baby[1] has phlog entries with beautifully justified paragraphs.
 How did they do that? - aparently it's all hand-crafted!
+
+1[1] baud.baby	/	baud.baby	70
 
 ---
 
