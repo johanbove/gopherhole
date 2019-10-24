@@ -1,4 +1,6 @@
 # git shortcuts ######################################################
 
-git add . && git commit -a -m "update content" &&  git push origin
+## gopherpublish #####################################################
+
+  git add . && git commit -a -m "update content" && git push origin
 

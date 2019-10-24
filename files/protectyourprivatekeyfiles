@@ -4,14 +4,26 @@ If you encounter this output when trying to use a private SSH key,
 your key's permissions rights are not safe!
 
 $ ssh-add -k
+$ @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+$ @         WARNING: UNPROTECTED PRIVATE KEY FILE!          @
+$ @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+$ Permissions 0777 for '/home/johan/.ssh/id_rsa' are too open.
+$ It is required that your private key files are NOT accessible by
+$ others.
+$ This private key will be ignored.
 
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@         WARNING: UNPROTECTED PRIVATE KEY FILE!          @
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-Permissions 0777 for '/home/johan/.ssh/id_rsa' are too open.
-It is required that your private key files are NOT accessible by
-others.
-This private key will be ignored.
+Fix this by setting the correct permission octal values:
+
 $ chmod 700 ~/.ssh
 $ chmod 644 ~/.ssh/*.pub
 $ chmod 600 ~/.ssh/*rsa
+
+Source: https://superuser.com/a/215506
+
+> Typically you want the permissions to be:
+
+    - .ssh directory: 700 (drwx------)
+    - public key (.pub file): 644 (-rw-r--r--)
+    - private key (id_rsa): 600 (-rw-------)
+    - lastly your home directory should not be writeable by the group
+	 or others (at most 755 (drwxr-xr-x)).
