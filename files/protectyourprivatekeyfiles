@@ -1,4 +1,4 @@
-# Fixing wrong permissions on ssh key files ==========================
+# Fixing wrong permissions on ssh key files ##########################
 
 If you encounter this output when trying to use a private SSH key,
 your key's permissions rights are not safe!
