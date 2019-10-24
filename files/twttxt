@@ -1,0 +1,31 @@
+# What is Twttxt? ####################################################
+
+HTTP: https://twtxt.readthedocs.io/en/stable/index.html
+Indieweb wiki: https://indieweb.org/twtxt
+
+> twtxt is a decentralised, minimalist microblogging service for
+hackers.
+
+You want to get some thoughts out on the internet in a convenient and
+slick way while also following the gibberish of others? Instead of signing up at a closed and/or regulated microblogging platform,
+getting your status updates out with twtxt is as easy as putting them
+in a publicly accessible text file. The URL pointing to this file is
+your identity, your account. twtxt then tracks these text files, like
+a feedreader, and builds your unique timeline out of them, depending
+on which files you track. The format is simple, human readable, and
+integrates well with UNIX command line utilities.
+
+tl;dr: twtxt is a CLI tool, as well as a format specification for
+self-hosted flat file based microblogging.
+
+## Notes #############################################################
+
+Tantek[1]: if you could, it would be great to add its connection
+relevance to IndieWeb people and or principles to the dfn and perhaps
+expand later in the page with Examples
+Tantek[2]: see also text-first
+Tantek[3]: Text-first design refers to the practice of designing
+information and UIs so they are readable/usable/actionable at least
+as basic plain text https://indieweb.org/text-first
+
+[1] https://chat.indieweb.org/2019-10-24/1571944880353300
