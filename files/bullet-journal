@@ -22,7 +22,7 @@ He published his method in 2013 and since then it took over the World.
 Though it does require a journal, Bullet Journal® is a methodology.
 It's best described as a mindfulness practice disguised as a
 productivity system. It's designed to help you organize your what
-while you remain midnful of your why. The goal of the Bullet Journal
+while you remain mindful of your why. The goal of the Bullet Journal
 is to help its practitioners (Bullet Journalists) live intentional
 lives, ones that are both productive and meaningful.
 
@@ -33,16 +33,19 @@ lives, ones that are both productive and meaningful.
 Be it for taking notes or journaling, studies keep identifying
 benefits of writing by hand. That said, it takes time and can be
 unorganized. How can we enjoy the benefits while avoiding the
-shortcomings of hand writing? Rapid Logging.
+shortcomings of hand writing?
+
+Rapid Logging.
 
 Rapid Logging is the language in which the Bullet Journal is written.
 In short, it’s a way of capturing information as bulleted lists.
+
 Let's start with the basics.
 
 ### Bullets ##########################################################
 
-If Rapid Logging is language the BuJo is written in, Bullets are the
-syntax. Bullets are short-form sentences paired with symbols that
+If Rapid Logging is the language the BuJo is written in, Bullets are
+the syntax. Bullets are short-form sentences paired with symbols that
 visually categorize your entries into: Tasks, Events, or Notes. Let's
 break it down...
 
@@ -52,19 +55,35 @@ Task •
 
 Tasks are represented by a simple dot “•”. We use a dot instead of a
 checkbox because it's fast, clean, and can easily be transformed to
-reflect the state of the Task. Tasks can have one of five states:
+reflect the state of the Task.
+
+Tasks can have one of five states:
+
+1. • = Task incomplete
+2. X = crossed through = Task complete
+3. > = crossed with open arrow pointing to the right = Task Migrated
+   to collection
+4. < = crossed with open arrow pointing to the left = Task Scheduled
+   in Future Log
+5. - = strike-through = Task irrelevant
 
 ### Bullet Journal Events ############################################
 
 Event O
 
-Events are represented by the open circle “O” Bullet. Events are date-related entries that can either be scheduled (e.g. “Charlie’s birthday”) or logged after they occur (e.g. “signed the lease”).
+Events are represented by the open circle “O” Bullet. Events are
+date-related entries that can either be scheduled (e.g. “Charlie’s
+birthday”) or logged after they occur (e.g. “signed the lease”).
 
-Our experiences can be complicated and distracting. Rather than trying to capture the way you feel in the moment, keep your Event entries short and objective. It will increase the odds of us writing them down. The important thing is to have a record of your experience so that you can learn from it.
+Our experiences can be complicated and distracting. Rather than
+trying to capture the way you feel in the moment, keep your Event
+entries short and objective. It will increase the odds of us writing
+them down. The important thing is to have a record of your experience
+so that you can learn from it.
 
 ### Bullet Journal Notes #############################################
 
-Note -
+Note –
 
 Notes are represented with a dash “–”. Notes include: facts, ideas,
 thoughts, and observations. They're used to capture information or
@@ -84,7 +103,10 @@ your head, and onto the page.
 
 Nesting
 
-Nesting Bullets can add some much needed color to your entries. For example, nest Notes under an Event to capture important details. Nest subtasks under the main Task to break things down into a series of steps.
+Nesting Bullets can add some much needed color to your entries. For
+example, nest Notes under an Event to capture important details. Nest
+subtasks under the main Task to break things down into a series of
+steps.
 
 #### Bullet Journal Signifiers #######################################
 
@@ -101,6 +123,9 @@ Use it sparingly. If everything is a priority, nothing is.
 ! = Inspiration: Great ideas, personal mantras, and genius insights
 will never be misplaced again!
 
+€ = Money: Track finance and budget; use the $ or other currency sign
+if you wish.
+
 ### Bullet Journal Daily Log #########################################
 
 Putting it together
@@ -108,6 +133,8 @@ Putting it together
 Start by giving your page a short descriptive Topic. This clarifies
 the purpose of the page and nature of its contents. In this example,
 it's simply the day's date.
+
+  25.10, Fri
 
 Once that’s done, be sure to number the page. Page numbers will serve
 to locate your content.
@@ -121,8 +148,9 @@ Collections
 
 BuJo is a modular framework. Each module, or Collection, serves to
 organize related information. You can mix and match, customize, or
-even create Collections to best suit your needs. Let’s take a look at
-the four core Collections:
+even create Collections to best suit your needs.
+
+Let’s take a look at the four core Collections:
 
 The Index, Future Log, Monthly Log, and the Daily Log.
 
@@ -139,8 +167,8 @@ Collections that span a series of consecutive spreads are indexed
 like this: “Collection Topic: 5-10.”
 
 Some Collections are recurring and can be spread throughout your
-notebook. These Collections can be indexed as such: “Collection Name:
-5-10, 23, 34-39”
+notebook. These Collections can be indexed as such:
+“Collection Name: 5-10, 23, 34-39”
 
 ### Bullet Journal Future Log ########################################
 
@@ -172,6 +200,10 @@ month. You can use it to schedule Events and Tasks, record Events
 after they happen, or both. Entries here should be as short as
 possible, as this page is designed for reference only.
 
+List the days of the month as numbers, with the date first, followed
+by the first letter of the day of the week. Leave some space before
+the number for signifiers.
+
 The Task Page
 
 This page is designed to help you take a monthly mental inventory
@@ -180,6 +212,11 @@ month? What matters now? Get it off your mind, and list it here.
 
 Tip: Leave some room in the left margin of the page to add Signifiers
 to mark important entries.
+
+Tip: My monthly gets really long, so you can also spread it out over
+multiple pages if necessary. Don't worry if you run out of space on
+the current page. Just continue on the next free page and make a
+reference to the page's number in your index.
 
 ### Bullet Journal Daily Log #########################################
 
@@ -213,9 +250,9 @@ Bullet Journal Migration
 
 Migration
 
-  "There is nothing so useless as doing efficiently
-   that which should not be done at all."
-   – Peter Drucker
+    "There is nothing so useless as doing efficiently
+     that which should not be done at all."
+     – Peter Drucker
 
 We lead busy lives, but being busy doesn't necessarily mean we're
 being productive. Productive means that we're using our time wisely
