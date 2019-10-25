@@ -2,5 +2,7 @@
 
 ## gopherpublish #####################################################
 
+Saved this command as an alias in my ~/.bashrc file:
+
   git add . && git commit -a -m "update content" && git push origin
 
