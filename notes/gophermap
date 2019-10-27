@@ -10,8 +10,8 @@ boy. Spent most time away from the PC today.
 Caught up watching an episode of the "Inside Bill's Brain (2019)"[1]
 and "Vox Explained" [2] documentaries on Netflix.
 
-h[1] Inside Bill's Brain	(URL:https://www.imdb.com/title/tt10837476/)
-h[2] Vox Explained	/URL:https://www.imdb.com/title/tt8005374
+h[1] Inside Bill's Brain (IMDB)	(URL:https://www.imdb.com/title/tt10837476/)
+h[2] Vox Explained (IMDB)	/URL:https://www.imdb.com/title/tt8005374
 
 ## Other ############################################################
 The change from summertime to wintertime is confusing my sense of
@@ -27,7 +27,7 @@ Added more content to the "twtxt" article on https://indieweb.org.
 Read through more twtxt feeds from other users and got myself
 registered on the "we-are-twtxt" registry [1]
 
-h[1] we-are-twtxt	/URL:https://github.com/mdom/we-are-twtxt/blob/master/we-are-twtxt.txt
+h[1] we-are-twtxt (Github)	/URL:https://github.com/mdom/we-are-twtxt/blob/master/we-are-twtxt.txt
 h[2] Visual Studio Code	/URL:https://code.visualstudio.com/
 
 ---
@@ -44,7 +44,7 @@ it work so that every update to my twtxt.txt file is also pushed to
 my site at https://johanbove.info and then a mirror-copy is also scp
 copied to this gopher site.
 
-h[1] twtxt	/URL:https://indieweb.org/twtxt
+h[1] twtxt Indieweb article	/URL:https://indieweb.org/twtxt
 1My twtxt feed	/twtxt.txt	gopher.johanbove.info	70
 
 ---
