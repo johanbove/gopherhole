@@ -1,5 +1,48 @@
 1Home	/	gopher.johanbove.info	70
 
+# October 27th, 2019 ################################################
+
+## Friends ##########################################################
+Had a great brunch today with friends, and finally saw their new baby
+boy. Spent most time away from the PC today.
+
+## Watching #########################################################
+Caught up watching an episode of the "Inside Bill Gates's Head" and
+"Vox Explained" documentories on Netflix.
+
+## Other ############################################################
+The change from summertime to wintertime is confusing my sense of
+time today. Wishing we could just keep the time set to wintertime
+permanently.
+
+Writing this with Visual Studio Code's "zen-mode" layout on.
+
+Added more content to the "twtxt" article on https://indieweb.org.
+
+Read through more twtxt feeds from other users and got myself
+registered on the "we-are-twtxt" registry [1]
+
+h[1] we-are-twtxt   /URL:https://github.com/mdom/we-are-twtxt/blob/master/we-are-twtxt.txt
+
+---
+
+# October 28th, 2019 ################################################
+
+## Family ###########################################################
+Wonderful warm Autumn day. Had a great time in the park with Nathan.
+
+## twtxt ############################################################
+I've set up the twtxt [1] publishing app on WSL on my PC. It works
+great, and it's enlightening to publish it all text-first! I've made
+it work so that every update to my twtxt.txt file is also pushed to
+my site at https://johanbove.info and then a mirror-copy is also scp
+copied to this gopher site.
+
+h[1] twtxt  /URL:https://indieweb.org/twtxt
+1My twtxt feed  /twtxt.txt  gopher.johanbove.info   70
+
+---
+
 # October 25th, 2019 ################################################
 
 ## Bullet Journalling ###############################################
@@ -16,6 +59,8 @@ a couple of times and it really messed me up. Yay, friday night's as
 a parent of a young kid...
 
 He's wonderful and we love him with all our hearts!
+
+---
 
 # October 24th, 2019 ################################################
 
