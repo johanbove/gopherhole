@@ -15,14 +15,17 @@ The change from summertime to wintertime is confusing my sense of
 time today. Wishing we could just keep the time set to wintertime
 permanently.
 
-Writing this with Visual Studio Code's "zen-mode" layout on.
+Writing this with "Visual Studio Code"[2] 's "zen-mode" layout on.
+Had to fix the "tabs to spaces" setting as it had reverted back to
+spaces instead of tabs and it messed up the gophermap links.
 
 Added more content to the "twtxt" article on https://indieweb.org.
 
 Read through more twtxt feeds from other users and got myself
 registered on the "we-are-twtxt" registry [1]
 
-h[1] we-are-twtxt   /URL:https://github.com/mdom/we-are-twtxt/blob/master/we-are-twtxt.txt
+h[1] we-are-twtxt	/URL:https://github.com/mdom/we-are-twtxt/blob/master/we-are-twtxt.txt
+h[2] Visual Studio Code	/URL:https://code.visualstudio.com/
 
 ---
 
@@ -38,8 +41,8 @@ it work so that every update to my twtxt.txt file is also pushed to
 my site at https://johanbove.info and then a mirror-copy is also scp
 copied to this gopher site.
 
-h[1] twtxt  /URL:https://indieweb.org/twtxt
-1My twtxt feed  /twtxt.txt  gopher.johanbove.info   70
+h[1]	twtxt	/URL:https://indieweb.org/twtxt
+1My twtxt feed	/twtxt.txt	gopher.johanbove.info	70
 
 ---
 
