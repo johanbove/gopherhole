@@ -2,6 +2,10 @@
 
 ## Status
 
+### 2019-10-26
+
+Added a twtxt.file as my twtxt feed. Neat.
+
 ### 2019-10-20
 
 Currently I am testing out running a Gopher server on this Raspberry Pi.
