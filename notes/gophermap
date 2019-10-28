@@ -1,5 +1,28 @@
 1Home	/	gopher.johanbove.info	70
 
+# October 28th, 2019 ################################################
+
+## Work #############################################################
+
+Long day at work - feeling the sprint rush coming in like a gentle
+category 3 thunderstorm. We're getting there!
+
+## Home #############################################################
+
+Todo: build a Nathan-friendly Netflix landing page with his favorite
+shows:
+
+- Tayo - The Little Bus
+- Paw Patrol
+- Puffin Rock
+- Peppa Pig
+
+How to add direct links to the Netflix shows, when a user needs to be
+logged-in before watching? Session-handling should take care of that.
+Does Netflix have an API? Guess that is a little over-kill. Should be
+sufficient to have an HTML page with some placeholder images, in a 
+grid-css based layout.
+
 # October 27th, 2019 ################################################
 
 ## Friends ##
