@@ -1,30 +1,30 @@
 # Journal 2019-10-29 ################################################
 
-		Had a terrible thought earlier in bed that I wanted to end my
-life.  Not sure where these dark thoughts are coming from as I have
+Had a terrible thought earlier in bed that I wanted to end my life.
+Not sure where these dark thoughts are coming from as I have
 wonderful son and my life is good. Perhaps it's related to my 40th
 birthday coming up soon...
 
-		I'm getting into that "damn, what did I achieve with my life
-until now that actually matters", crisis thinking. I'm not a prolific
+I'm getting into that "damn, what did I achieve with my life until
+now that actually matters", crisis thinking. I'm not a prolific
 writer, nor a successful publisher and being a web developer, the
 months of work I spend on projects is doomed to not last very long as
 software and especially web development moves at lightning speed.
 
-		So as I stated in my notes from earlier, I had a really bad night
+So as I stated in my notes from earlier, I had a really bad night
 couldn't catch any Zzzs. And now it's 05:20 and I have been looking
 at how to optimally configure Vim using the ~/.vimrc file to do
 automatic paragraph formatting - just to get distracted from the
 gloomy thoughts. I think the settings are good and the paragraphs are
 coming out neatly. See "Automatic formatting of paragraphs" [1]
 
-		I found an article on WikiHow [2] about what to do when one gets
+I found an article on WikiHow [2] about what to do when one gets
 these depressed ideas and writing it-all-out should help; and it
 seems to be working. So don't worry! I'll be fine! I guess I caught
 some virus (stomach) and it messed up my sleep. Should be better in
 48 hours.
 
-		I'm not following my unkle's path where he got himself in so much
+I'm not following my unkle's path where he got himself in so much
 personal pain and suffering in his relationship that he decided to
 hang himself, even when he left three daughters behind and a young
 wife. This happened many years ago and my while it was a terrible
@@ -34,13 +34,13 @@ elder brother to an agressive long cancer. It must have been really
 terrible for my late grandmother who I most dearily miss. My mom and
 nieces are happy now and are leading good lives.
 
-		I have some memories from both of my unkles - but I must admit
-it's getting all a little vague. I think my brain is - happily -
-filling itself with wonderful memories of my son Nathan who means
-everything to me. Even-though he can be really stubborn and doesn't
-sleep to steadily, he's amazing, clever, funny and sweet.
+I have some memories from both of my unkles - but I must admit it's
+getting all a little vague. I think my brain is - happily - filling
+itself with wonderful memories of my son Nathan who means everything
+to me. Even-though he can be really stubborn and doesn't sleep to
+steadily, he's amazing, clever, funny and sweet.
 
-		My marriage with Erica, who I love dearly, has gone through tough
+My marriage with Erica, who I love dearly, has gone through tough
 times because of stressful situations with our home. But we're still
 together and she loves me too. Our son is an important factor for our
 commitment towards our family. It's been a couple of weeks now since
@@ -51,9 +51,8 @@ TV, attending KITA events, and all of that while having full-time
 jobs and having to communite an hour every day does tend to put a lot
 of purden on both our shoulders.
 
-		Somehow we're managing and I think Nathan is happy too. I really
-want to see what he's going to be and how he's going to lead his
-live.
+Somehow we're managing and I think Nathan is happy too. I really want
+to see what he's going to be and how he's going to lead his live.
 
 Live is too precious and I want to still make a difference with mine.
 
