@@ -1,4 +1,6 @@
 " Save this file as .vimrc in your home directory
+set mouse=1				" enables mouse control
+set visualbul			" turns off the annoying terminal bell
 set background=dark
 set backspace=2         " backspace in insert mode works like normal editor
 syntax on               " syntax highlighting
@@ -8,14 +10,15 @@ set number              " line numbers
 colorscheme industry      " colorscheme desert
 " set nobackup            " get rid of anoying ~file
 " See Tabs vs Spaces https://stackoverflow.com/a/1878983
-set tw=70               " wrap line as this column
+set textwidth=69		" lines longer than 69 characters are wrapped
+set tw=69               " wrap line as this column
 set wrap                " activate wrapping
 set tabstop=4           " The width of a TAB is set to 4.
                         " Still is is a \t. It is just that
                         " Vim will interpret it to be having
                         " a width of 4.
-set softtabstop=0       " Sets the number of columns for a TAB
-set expandtab           " Expand TABs to spaces
+set softtabstop=1       " Sets the number of columns for a TAB
+"set expandtab           " Expand TABs to spaces
 set shiftwidth=4        " Indents will have a width of 4
 " set smarttab          " Enabling this will make the tab key
                         " (in insert mode) insert spaces or tabs
