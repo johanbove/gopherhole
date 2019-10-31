@@ -1,5 +1,5 @@
 " Save this file as .vimrc in your home directory
-set mouse=1             " enables mouse control
+set mouse=a             " enables mouse control
 set visualbell          " turns off the annoying terminal bell
 set background=dark     " makes the text way more readable
 set backspace=2         " backspace in insert mode works like normal editor
@@ -26,3 +26,5 @@ set shiftwidth=4        " Indents will have a width of 4
                         " tabstop when the cursor is at the
                         " beginning of a line (i.e. the only
                         " preceding characters are whitespace).
+" apply automatic text formatting only to *.txt files
+au BufEnter *.txt set tx ts=4 sw=4 fo+=n2a
