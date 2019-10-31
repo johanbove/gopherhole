@@ -1,0 +1,163 @@
+# Linux ln command ==================================================
+
+By Garry Newell
+Updated June 14, 2019
+
+
+HTML:
+https://www.lifewire.com/create-symbolic-links-ln-command-4059723
+
+Symbolic links are utilized just like shortcuts. They can be used to
+make really long paths shorter and a way to get easy access to files
+on other partitions and drives.
+
+This guide shows everything you need to know about symbolic links but
+you can check out the manual page for the ln command for the other
+switches.
+Getting Started
+
+There are two types of links available:
+
+    Hard links: This is a link to an actual file on the Linux system.
+	    Soft links: This is similar to a Windows "shortcut", which
+		points to the original file location. This is also known as a
+		"symbolic" link.
+
+		Before you begin, it's good to know what hard links are and
+		why you would use them. Later in this article, you'll learn
+		about soft links or symbolic links as they are more commonly
+		known.
+		What Is a Hard Link?
+
+		Each file in your file system is identified by a number
+		called an inode. Most of the time you won't need to care
+		about this number, but the importance of it comes to light
+		when you want to create a hard link.
+
+		A hard link lets you assign a different name to a file in a
+		different location, but it's still exactly the same file. The
+		key that links the files together is the inode number. The
+		great thing about hard links is that they don't take up any
+		extra physical hard drive space.
+
+		A hard link makes it easier to categorize files. For
+		instance, imagine you have a folder full of photos. You could
+		create one folder called vacation pictures, another folder
+		called kids photos, and a third one called pet photos.
+
+		It's possible that you'll have some photos that fit into all
+		three categories because they were taken while you were on
+		vacation with your children and dogs.
+		Organizing Files With Hard Links
+
+		You could put the main file in the vacation pictures photos
+		folder and then create a hard link to that photo in the kids'
+		photos category. Then, you can make another hard link in the
+		pet photos category — and no extra disk space is used to
+		store duplicates of the same photo.
+
+		All you have to do is enter the following command to create a
+		hard link:
+
+		ln /path/to/file /path/to/hardlink
+
+		If you had a photo called BrightonBeach in the vacation
+		photos folder and you wanted to create a link in the kids'
+		photos folder, you would use the following command:
+
+		ln /holidayphotos/BrightonBeach.jpg
+		/kidsphotos/BrightonBeach.jpg
+
+		You can tell how many files link to the same inode by using
+		the ls command as follows:
+
+		ls -lt
+
+		The output will be something like -rw-r--r-- 1 username
+		groupname date filename.
+
+		The first part of the output shows the user's permissions,
+		but the important part is the number after the permissions
+		and before the username. 
+		A screenshot of ls -lt command results
+
+		If the number is 1 it is the only file pointing to a
+		particular inode (i.e. it is not linked). If the number is
+		greater than one then it is hard-linked by 2 or more files.
+		What Is a Symbolic Link?
+
+		A symbolic link is like a shortcut from one file to another.
+		The contents of a symbolic link are the address of the actual
+		file or folder that is being linked to.
+
+		The benefit of using symbolic links is that you can link to
+		files and folders on other partitions and on other devices.
+
+		Another difference between a hard link and a symbolic link is
+		that a hard link must be created against a file that already
+		exists, whereas a soft link can be created in advance of the
+		file it is pointing to existing.
+		Creating a Symbolic Link
+
+		To create a symbolic link use the following syntax:
+
+		ln -s /path/to/file /path/to/link
+
+		If you are worried about overwriting a link that already
+		exists you can use the -b switch as follows:
+
+		ln -s -b /path/to/file /path/to/link
+
+		This will create a backup of the link if it already exists by
+		creating the same filename but with a tilde at the end (~).
+		If a file already exists with the same name as the symbolic
+		link you will receive an error.
+
+		You can force the link to overwrite the file by using the
+		following command:
+
+		ln -s -f /path/to/file /path/to/link
+
+		You probably don't want to use the -f switch without the -b
+		switch as you will lose the original file.
+
+		Another alternative is to receive a message asking whether
+		you want to overwrite a file if it already exists. You can do
+		this with the following command:
+
+		ln -s -i /path/to/file /path/to/link
+
+		Most modern File Explorer applications in Linux let you
+		create a symbolic link using the visual GUI. For example,
+		using Thunar File Manager, inside any folder, just right
+		click and select Create symlink.
+		Screenshot of creating a symlink in Thunar File Manager
+
+		This creates what looks like a new folder. It's actually a
+		symbolic link pointing to the folder where you created it.
+		You can cut and paste this symlink anywhere else you like,
+		and when you open it, it will always open the original folder
+		where you created it.
+		How Do You Tell If a File Is a Symbolic Link?
+
+		Run the following ls command:
+
+		ls -lt
+
+		If a file is a symbolic link you will see something like
+		this:
+
+		myshortcut -> myfile
+
+		You can use a symbolic link to navigate to another folder as
+		explained above.
+
+		For example, imagine you have a link to
+		/home/music/rock/alicecooper/heystoopid called heystoopid.
+
+		You can run the following cd command to navigate to that
+		folder using the following command:
+
+		cd heystoopid
+
+EOF
