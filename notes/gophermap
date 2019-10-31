@@ -24,6 +24,25 @@ using more words in his vocabulary: "cake", "please" (as repeat, not
 intentionally). Erica says he is using some Italian words as well.
 I'm so proud of him!
 
+It's getting colder in our area with temperatures close to freezing.
+Until today the heating in a room didn't turn on. Saw the thermostats
+in our bedrooms set the valve positions to about 50% around 21:30.
+The main bedroom valve turned off again after an hour, but the front
+bedroom valve had to keep the temperature for the rest of the night.
+
+The Thermostats are German HomeMatic HM-CC-RT-DN devices[2].
+
+## IndieWeb #########################################################
+
+Still digging Twtxt as a very basic "Twitter-like" experience because
+it is so simple, yet powerful enough to be able to share ideas and
+even do discussion. Keeping a txt file somewhere accessible from any
+online server. And there are some cool integrations like twtxt.xyz [1]
+
+h[1] http://twtxt.xyz	/URL:http://twtxt.xyz/timeline/all
+h[2] HomeMatic Thermostat
+/URL:https://www.eq-3.de/produkte/homematic/detail/homematic-funk-heizkoerperthermostat.html
+
 ---
 
 # October 29th, 2019 ################################################
@@ -45,6 +64,8 @@ light-weight and super focussed on getting actual content and
 articles across without the distractions of ads, videos and pictures.
 I can highly recommend it if you're easily distracted and/or can't seem
 to stop checking 4chan, 9gag or other time-suckers.
+
+---
 
 # October 28th, 2019 ################################################
 
@@ -76,6 +97,8 @@ logged-in before watching? Session-handling should take care of that.
 Does Netflix have an API? Guess that is a little over-kill. Should be
 sufficient to have an HTML page with some placeholder images, in a 
 grid-css based layout.
+
+---
 
 # October 27th, 2019 ################################################
 
