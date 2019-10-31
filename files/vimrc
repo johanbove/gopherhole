@@ -1,14 +1,14 @@
 " Save this file as .vimrc in your home directory
-set mouse=1				" enables mouse control
-set visualbul			" turns off the annoying terminal bell
-set background=dark
+set mouse=1             " enables mouse control
+set visualbell          " turns off the annoying terminal bell
+set background=dark     " makes the text way more readable
 set backspace=2         " backspace in insert mode works like normal editor
 syntax on               " syntax highlighting
 filetype indent on      " activates indenting for files
 set autoindent          " auto indenting
 set number              " line numbers
-colorscheme industry      " colorscheme desert
-" set nobackup            " get rid of anoying ~file
+colorscheme industry    " colorscheme desert
+" set nobackup           " get rid of anoying ~file
 " See Tabs vs Spaces https://stackoverflow.com/a/1878983
 set textwidth=69		" lines longer than 69 characters are wrapped
 set tw=69               " wrap line as this column
