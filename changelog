@@ -1,29 +1,33 @@
-# Change Log #########################################################
+# Change Log ########################################################
 
-## 2019-10-26 ########################################################
+## 2019-10-31 #######################################################
+- Fixed: Restructured the /notes folder with an extra sub-level for
+months
+
+## 2019-10-26 #######################################################
 - Added file: twtxt - a mirror of my twtxt tweets feed
 
-## 2019-10-25 ########################################################
+## 2019-10-25 #######################################################
 - Added file: Getting Started with Bullet Journaling
 
-## 2019-10-24 ########################################################
+## 2019-10-24 #######################################################
 - Added note: "Gophering Along"
 - Added file: twttxt
 
-## 2019-10-23 ########################################################
+## 2019-10-23 #######################################################
 - Played around with formatting again...
 - Added more context to the about file, which is now moved to its
   own folder.
 
-## 2019-10-22 ########################################################
+## 2019-10-22 #######################################################
 - Added a `files` folder
 
-## 2019-10-21 ########################################################
+## 2019-10-21 #######################################################
 - Fixed some formatting issues in the content files.
 - Fixed the external HURL links
 - Added .abstract files
 
-## 2019-10-20 ########################################################
+## 2019-10-20 #######################################################
 - Initial set up of the site served by Pygopherd on the Raspberry Pi3.
 - Figuring out how to use gopher
 - Configured DNS forwarding for gopher.johanbove.info
