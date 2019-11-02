@@ -16,8 +16,12 @@ or:
 
   :e .
 
-Formatting a paragraph
+Formatting a paragraph:
 
   gwip
 
+Search and Replace string in the full file:
 
+  :%s/search/replace/g
+
+EOF
