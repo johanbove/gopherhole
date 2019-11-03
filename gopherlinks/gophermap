@@ -12,3 +12,7 @@ Gopher Servers
 1Quux.Org Mega Server	/	gopher.quux.org	70
 1The Gopher Project	/Software/Gopher	gopher.quux.org	70
 1Traditional UMN Home Gopher	/	gopher.tc.umn.edu	70
+
+Non-Gopher Text-only Sites
+h"NPR Text news"	/URL:https://text.npr.org/
+
