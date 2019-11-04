@@ -4,7 +4,7 @@
 
 ### 2019-11-02
 
-Mirroring everything on [a private GitHub repo](https://github.com/johanbove/gopherhole) as backup for the files on my RaspBerry Pi and also to be able to remote edit files; even if publishing is not publishing until I get home.
+Mirroring everything on [a private GitHub repo](https://github.com/johanbove/gopherhole) as backup for the files on my RaspBerry Pi and also to be able to remote edit files; even if publishing is not possible until I get home.
 
 ### 2019-10-26
 
