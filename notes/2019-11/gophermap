@@ -1,7 +1,7 @@
 1Home	/	gopher.johanbove.info	70
 1Notes	/notes	gopher.johanbove.info	70
 
-# Nobember 5th, 2019 ################################################
+# November 5th, 2019 ################################################
 
 ## Family ###########################################################
 
@@ -32,15 +32,15 @@ The DELETE action of Webmentions works in a very clever way by
 implementing the status code 410 Gone. Wrote about it on ye olde
 Known blog.
 
-hWebmention Delete	/URL:https://social.johanbove.info/2019/11/05/webmention-delete-testing-with-webmentionrocks
+hMy "Webmention DELETE" Post	/URL:https://social.johanbove.info/2019/11/05/webmention-delete-testing-with-webmentionrocks
 
 Got news from a fellow Known CMS user that he bodged his son's
 website and is having a really tough time getting the data and the
 site back online. This triggered me to check my own backup plan and
 do an export to XML (RSS) of my Known posts.
 
-Note to self: also do a full backup and make sure to keep the file
-offline.
+Note to self: Make regular full backups and make sure to keep the
+file offline.
 
 When posting code-snippets, there are still some design issues; going
 to have to take a look at that too.
@@ -61,6 +61,9 @@ site requires quite a lot of details and preferably also pictures.
 
 Problem solving day. Trying to get a sort of German strings to work
 with ``String.prototype.localCompare()``.
+
+Organizing tasks in our Sprint plan and making sure we constantly
+feed our testing crew with testable stories and deployments.
 
 hLocalCompare on MDN Web Docs	/URL:https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/localeCompare
 
