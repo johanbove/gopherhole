@@ -32,8 +32,7 @@ The DELETE action of Webmentions works in a very clever way by
 implementing the status code 410 Gone. Wrote about it on ye olde
 Known blog.
 
-hWebmention Delete
-/URL:https://social.johanbove.info/2019/11/05/webmention-delete-testing-with-webmentionrocks
+hWebmention Delete	/URL:https://social.johanbove.info/2019/11/05/webmention-delete-testing-with-webmentionrocks
 
 Got news from a fellow Known CMS user that he bodged his son's
 website and is having a really tough time getting the data and the
@@ -63,8 +62,7 @@ site requires quite a lot of details and preferably also pictures.
 Problem solving day. Trying to get a sort of German strings to work
 with ``String.prototype.localCompare()``.
 
-hLocalCompare on MDN Web Docs
-/URL:https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/localeCompare
+hLocalCompare on MDN Web Docs	/URL:https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/localeCompare
 
 ---
 
