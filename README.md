@@ -6,7 +6,10 @@ This is a Gopher burrow or Gopher space running on PygoPherd.
 
 ### 2019-11-02
 
-Mirroring everything on [a private GitHub repo](https://github.com/johanbove/gopherhole) as backup for the files on my RaspBerry Pi and also to be able to remote edit files; even if publishing is not possible until I get home.
+Mirroring everything on [a private GitHub
+repo](https://github.com/johanbove/gopherhole) as backup for the
+files on my RaspBerry Pi and also to be able to remote edit files;
+even if publishing is not possible until I get home.
 
 ### 2019-10-26
 
@@ -18,7 +21,9 @@ Currently I am testing out running a Gopher server on this Raspberry Pi.
 
 Installed **"pygopherd"**, a Perl based Gopher server.
 
-Installed the OverbiteWX and OverbiteNX [FireFox addons](https://addons.mozilla.org/en-US/firefox/user/1605919/) to open gopher files.
+Installed the OverbiteWX and OverbiteNX [FireFox
+addons](https://addons.mozilla.org/en-US/firefox/user/1605919/) to
+open gopher files.
 
 ## Resources
 
@@ -45,6 +50,19 @@ The configuration file for Pygopherd is kept in:
 
   sudo /etc/init.d/pygopherd stop
 
+## Opening up public access
+
+Use UFW to open TCP access on port 70.
+
+## Set up fixed IP with DuckDNS
+
+My home ip changes so I need to monitor these changes.
+www.duckdns.org provide a free IP monitor.
+
+## Set up domain forwarding
+
+Add a CNAME entry in your domain name settings.
+
 ## Publishing
 
 This site is published with a command of which I made an alias, in my
@@ -65,3 +83,10 @@ Script `hooks/post-receive` :
 	GIT_WORK_TREE=/var/gopher git checkout -f
 
 > **TIP** Don't forget to `chmod +x hooks/post-receive` !
+
+## To Do
+
+- Set up a back up system in case the RaspBerryPi is foobarred.
+- Forward visitors of social.johanbove.info:70 to
+  gopher.johanbove.info
+- Add more useful content to the site.
