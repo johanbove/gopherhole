@@ -1,6 +1,73 @@
 1Home	/	gopher.johanbove.info	70
 1Notes	/notes	gopher.johanbove.info	70
 
+# Nobember 5th, 2019 ################################################
+
+## Family ###########################################################
+
+N. was fantastic today. He's really determined and super cute. It is
+really sweet and funny how he is repeating Mommie's Italian phrases.
+We caught it on camera.
+
+Managed to get him to eat a full plate of food. He loves salmon.
+
+Got up earlier than usual today and E. brought him home also earlier
+to beat the traffic jams in the city.
+
+Friday is the Saint-Martin Parade and we're all going, together with
+all the kids from his KITA.
+
+## Known CMS ########################################################
+
+Looking at Webmentions again, testing out "unlisted" posts. Should
+they send out Webmention posts? Probably yes. The reasoning behind
+the "unlisted" posts is that they don't show up in RSS feeds. When
+they contain links to other resources, than they should send out a
+webmention to the targets. However by doing this, a link will be made
+on the target site back to the "unlisted" post, making it... listed.
+So with that logic, "unlisted" posts, should not send out
+webmentions.
+
+The DELETE action of Webmentions works in a very clever way by
+implementing the status code 410 Gone. Wrote about it on ye olde
+Known blog.
+
+hWebmention Delete
+/URL:https://social.johanbove.info/2019/11/05/webmention-delete-testing-with-webmentionrocks
+
+Got news from a fellow Known CMS user that he bodged his son's
+website and is having a really tough time getting the data and the
+site back online. This triggered me to check my own backup plan and
+do an export to XML (RSS) of my Known posts.
+
+Note to self: also do a full backup and make sure to keep the file
+offline.
+
+When posting code-snippets, there are still some design issues; going
+to have to take a look at that too.
+
+Oh, and it would be cool to be able to quickly insert the Brid.gy
+webmention endpoints into the content publishing forms.
+
+## The House ########################################################
+
+I really need to reach out to the architect tomorrow. We are in
+desperate need to clean up the drains of the balcony roofs and we
+need to renovate the ancient Velux roof windows. A project on the
+www.myhammer.de website would probably help. Going to need to prepare
+some information on the projects itself as the entry form on this
+site requires quite a lot of details and preferably also pictures.
+
+## Work #############################################################
+
+Problem solving day. Trying to get a sort of German strings to work
+with ``String.prototype.localCompare()``.
+
+hLocalCompare on MDN Web Docs
+/URL:https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/localeCompare
+
+---
+
 # November 4th, 2019 ################################################
 
 Short notes today as I really need to catch up on lost sleep. N. has
