@@ -8,7 +8,7 @@ filetype indent on      " activates indenting for files
 set autoindent          " auto indenting
 set number              " line numbers
 colorscheme industry    " colorscheme desert
-" set nobackup           " get rid of anoying ~file
+ set nobackup           " get rid of anoying ~file
 " See Tabs vs Spaces https://stackoverflow.com/a/1878983
 set textwidth=69		" lines longer than 69 characters are wrapped
 set tw=69               " wrap line as this column
@@ -28,3 +28,28 @@ set shiftwidth=4        " Indents will have a width of 4
                         " preceding characters are whitespace).
 " apply automatic text formatting only to *.txt files
 au BufEnter *.txt set tx ts=4 sw=4 fo+=n2a
+
+set ruler               " show col in status bar
+
+"set cursorline         " highlight current line
+filetype indent on      " load filetype-specific indent files
+set wildmenu            " visual autocomplete for command menu
+
+" netrw - directory explorer
+"let g:netrw_banner = 0
+" open files in a new horizontal split
+"let g:netrw_browse_split = 1
+
+" Mapping alt-j and alt-k
+" See http://stackoverflow/a/15399297
+" mac only!
+
+nnoremap º :m .+1<CR>==
+nnoremap ∆ :m .-2<CR>==
+
+inoremap º <Esc>:m .+1<CR>==gi
+inoremap ∆ <Esc>:m .-2<CR>==gi
+
+vnoremap º :m '>+1<CR>gv=gv
+vnoremap ∆ :m '<-2<CR>gv=gv
+
