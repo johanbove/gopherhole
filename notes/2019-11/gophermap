@@ -1,6 +1,48 @@
 1Home	/	gopher.johanbove.info	70
 1Notes	/notes	gopher.johanbove.info	70
 
+# November 6th, 2019 ################################################
+
+## Family ###########################################################
+
+N. had a great day at the Kita. He's been very interactive and is
+responding to what we're saying as if he really understands
+everything. He definitely does have a determined mind of his own. He
+ate a full plate - and more - of pasta with Grandma's meat sauce.  He
+got a little upset before when he did not get the full grissino (too
+much salt) and for desert he got a bar of Kinder choclate. He wanted
+to have an extra one and when I did not allow he got a bit upset.
+
+So we put him to bed a bit earlier today which is definitely not a
+bad thing. Going to hit the hay on time myself too.
+
+Installed the Mippaa stair-trainer but unfortunately our stair-case
+is spiral and the system does not really work.
+
+## Projects #########################################################
+
+Keeping everything I encounter online and find interesting as
+"bookmarks" in my Known site. Pretty neat. Not going to relink all of
+these things here however.
+
+Started a "following" page on the same site so I can share my blog
+roll.
+
+Listening to the Flemish Nerdland Podcast is good to keep up with my
+Flemish and learn about the latest news on science.
+
+hNerdland Podcast Site	/URL:https://nerdland.be/
+
+## Work #############################################################
+
+Refactoring a previous implementation on how we get data from the API
+because the response object is not giving us all the keys and values
+we need to build the UI. It's frustrating that we need to do an
+additional server request to get a single value. The process got a
+little trickier because of how we offer query parameters.
+
+---
+
 # November 5th, 2019 ################################################
 
 ## Family ###########################################################
