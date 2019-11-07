@@ -1,0 +1,95 @@
+# IndieWeb Nederland ################################################
+
+> HTTP: https://indiewebcamp.nl/
+
+Neem het web in eigen hand!
+
+Het is de hoogste tijd te zorgen dat het web ons tot dienst is. Door
+meer van het web in eigen handen te nemen. Het onafhankelijk web
+(indieweb) is het oorspronkelijke web, waar jij bepaalt wat je deelt,
+wat zichtbaar is voor anderen, en waar jouw data van jou is omdat het
+op je eigen site staat.
+
+IndieWeb is een wereldwijde beweging van mensen die zelf bepalen hoe
+ze hun online identiteit vormgeven, wat ze publiceren en hoe, en de
+interactie rond hun content vormgeven.
+
+In Nederland zijn diverse mensen op het IndieWeb actief.
+
+Op een Indiewebcamp bespreken een weekend lang mensen met elkaar hoe
+je meer van je online activiteiten op je eigen site onderbrengt, en
+ook bouwen aan wat je daarvoor nodig hebt.
+
+Op 18 en 19 mei 2019 vond het allereerste Nederlandse IndieWebCamp in
+Utrecht plaats. [1]
+
+Op 28 en 29 september 2019 vond het eerste IndieWebCamp Amsterdam
+plaats. [2]
+
+[1] https://indieweb.org/2019/Utrecht
+[2] https://indieweb.org/2019/Amsterdam
+
+In 2020 volgen nog meer IndieWebcamps in Nederland.
+
+Hou de https://indiewebify.me/ website daarom in de gaten.
+
+## Nederlandse IndieWeb Sites #######################################
+
+Enkele voorbeelden van persoonlijke sites met super krachten:
+
+- https://indiewebcamp.nl/blog/
+- https://www.zylstra.org/blog/
+- https://seblog.nl/
+
+---
+
+# IndieWeb Stappenplan ##############################################
+
+Dit is een Nederlands vertaling van de indiewebify.me website.
+
+> Zie https://indiewebify.me/
+
+## Hoe wordt je deel van het Indieweb (Level 1) #####################
+
+### 1. Haal je eigen domein naam ###################################
+
+Met een eigen domein naam heb je goedkope, internationaal erkende en
+universeel inzetbaar identificatiemiddel dat je meer control geeft
+over je eigen ruimte dan andere identiteiten (bv. een email adres of
+telefoon nummer)
+
+Op de wiki: [Personal Domains](https://indieweb.org/personal-domain)
+
+### 2. Installeer Web Sign In #######################################
+
+Om op andere websites met je eigen domein in te kunnen loggen,
+verbind je het domein met je bestaande identiteiten.
+
+Je hebt waarschijnlijk heel wat ongelinkte profielen op het Web. Door
+deze te verlinken met je eigen domein naam door gebruik te maken van
+het `rel=me` MicroFormat zorg je er voor dat je Google, Twitter,
+Github, Flicker, Facebook, email profielen dezelfde persoon zijn als
+je eigen domein naam.
+
+Op de wiki: [How to set up Web Sign
+In](https://indieweb.org/How_to_set_up_web_sign-in_on_your_own_domain)
+
+Wil je `rel-me` data integreren in je code? Bekijk dan deze
+open-source
+[implementaties](https://indieweb.org/rel-me#Implementations).
+
+---
+
+## Publiceren op het Indieweb (Level 2) #############################
+
+(Gepland)
+
+---
+
+## Samenbinden van Indieweb conversaties (Level 3) ##################
+
+(Gepland)
+
+---
+
+EOF
