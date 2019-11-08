@@ -51,7 +51,7 @@ Dit is een Nederlands vertaling van de indiewebify.me website.
 
 ## Hoe wordt je deel van het Indieweb (Level 1) #####################
 
-### 1. Haal je eigen domein naam ###################################
+1. Haal je eigen domein naam
 
 Met een eigen domein naam heb je goedkope, internationaal erkende en
 universeel inzetbaar identificatiemiddel dat je meer control geeft
@@ -60,7 +60,7 @@ telefoon nummer)
 
 Op de wiki: [Personal Domains](https://indieweb.org/personal-domain)
 
-### 2. Installeer Web Sign In #######################################
+2. Installeer Web Sign In
 
 Om op andere websites met je eigen domein in te kunnen loggen,
 verbind je het domein met je bestaande identiteiten.
@@ -82,7 +82,46 @@ open-source
 
 ## Publiceren op het Indieweb (Level 2) #############################
 
-(Gepland)
+1. Markeer je content (Profiel, notities, artikels, enz) met
+microformats2 [1]
+
+Andere mensen begrijpen jouw profiel informatie en de dingen die je
+op je site publiceerd. Door het toevoegen van enkele simpele class
+names in je HTML [5], kan de software van andere mensen jouw inhoud
+ook begrijpen en gebruiken voor dingen zoals reply contexts [2],
+cross-site comments [3], event RSVPS [4] en meer.
+
+Wil je h-card of h-entry data in je eigen programma's gebruiken?
+Bekijk dan deze open-source implementaties [6].
+
+[1] http://microformats.org/
+[2] https://indieweb.org/reply-context
+[3] https://indieweb.org/comment
+[4] https://indieweb.org/rsvp
+[5] http://microformats.org/wiki/h-card
+[6] http://microformats.org/wiki/parsers
+[7] http://microformats.org/wiki/parsers
+
+2. Voeg de mogelijkheid to om Webmentions te versturen naar andere
+IndieWeb sites
+
+Het versturen van webmentions laat je toe om antwoorden te schrijven
+in relatie tot externe inhoud en het maakt ook cross-site
+conversaties mogelijk. Je kan webmentions versturen door:
+
+- het formulier op https://indiewebify.me/
+- gebruik Telegraph [1], dat je een keuze geeft naar welke links het
+  antwoord te versturen. 
+- Vanaf de command line met Curl [2] of webmention-tools [3].
+- Voeg het automatisch versturen van webmentions toe aan je eigen
+  software door middel van één van deze open source libraries [4].
+
+[1] https://telegraph.p3k.io/
+[2] https://indieweb.org/webmention-implementation-guide
+[3] https://github.com/vrypan/webmention-tools
+[4] https://indieweb.org/Webmention-developer#Libraries
+
+Op de wiki site: https://indieweb.org/webmention
 
 ---
 
