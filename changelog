@@ -1,5 +1,12 @@
 # Change Log ########################################################
 
+## 2019-11-09 #######################################################
+
+- Changed: adding the week day to my note entries.
+- Changed: files/vimrc
+- Added: files/storing-a-password-in-bashrc
+- Added: articles/2019-11-06-indieweb
+
 ## 2019-10-31 #######################################################
 
 - Fixed: Restructured the /notes folder with an extra sub-level for

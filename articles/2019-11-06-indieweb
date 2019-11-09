@@ -127,7 +127,34 @@ Op de wiki site: https://indieweb.org/webmention
 
 ## Samenbinden van Indieweb conversaties (Level 3) ##################
 
-(Gepland)
+1. Voeg Reply Contexts toe aan je site
+
+Het versturen van antwoorden ([replies](https://indieweb.org/reply))
+op externe publicaties is de volgende stap na de eerste vermelding
+met behulp van webmentions.
+
+Meestal is een antwoord een [note](https://indieweb.org/note) zoals
+gewoonlijk, maar deze wordt op een specifieke wijze verlinkt met de
+originele post. Wanneer deze gemarkeerd wordt als `h-entry` and
+`rel-in-reply-to` en/of `class-u in-reply-to`, dan kan jouw antwoord
+als een commentaar bijdrage getoond worden op dezelfde pagina als de
+originele post.
+
+Als je wil testen of het versturen van webmentions foutloos verloopt,
+probeer dan te antwoorden op een post van iemand die webmention
+commentaar ontvangen aanvaardt. Er bestaat een lijst op [de wiki
+site](https://indieweb.org/webmention#IndieWeb_implementations).
+
+Je kan webmention ook eenvoudig testen op <https://webmention.rocks>
+
+Je kan ook nog een stap verder gaan, als je dit wenst. Toon een copy
+van de post waarop je antwoordt bij je commentaar. Dit noemen we een
+[reply context](https://indieweb.org/reply-context), en dit is een
+uitstekend voorbeeld om het parsen van externe posts mee te oefenen.
+
+2. Ontvange webmentions op je eigen site
+
+(gepland)
 
 ---
 
