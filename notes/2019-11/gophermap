@@ -1,6 +1,37 @@
 1Home	/	gopher.johanbove.info	70
 1Notes	/notes	gopher.johanbove.info	70
 
+# Sunday, November 10th, 2019 #######################################
+
+## Friends & Family #################################################
+
+Helped out our friend A.B. moving her house by looking after her baby
+boy for a couple of hours while she painted her new place. Gave me an
+impression of how parents of multiple children are spending their
+days. N. had fun while H. was here, although it took him some time to
+start trusting H. for not "stealing" his toys.
+
+Had a really good day actually, and we finished by having chocolates
+and sweets at a caffé in town.
+
+## Known ############################################################
+
+When N. was in bed I discovered that the Akismet spam filter of my
+Known site was blocking legit comments sent as webmentions, so I had
+to investigate and figure out why. The Akismet plugin is missing full
+debug log output so I added more debug out statements which are
+printed in the web server's error log. I also looked at how we could
+do a HAM submit to Akismet to prevent such legit comments to be
+blocked in the first place. The Akismet ham API documentation allows
+for building a basic HAM submit form, and I also figured out how to
+build such a form within the core Known code. But making it actually
+functional for everyone will require actually storing annotations
+which are flagged as spam within the DB or some other persistent
+storage. I am not yet comfortable messing about with the Known CMS DB
+yet.
+
+---
+
 # Saturday, November 9th, 2019 ######################################
 
 ## Family ###########################################################
