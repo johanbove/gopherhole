@@ -1,7 +1,7 @@
 # IndieWeb Nederland ################################################
 
 Status: draft
-Versie: 0.3.0
+Versie: 0.4.0
 
 > HTTP: https://indiewebcamp.nl/
 
@@ -157,7 +157,48 @@ uitstekend voorbeeld om het parsen van externe posts mee te oefenen.
 
 2. Ontvang webmentions op je eigen site
 
+Nu dat je antwoorden als commentaar kan versturen naar de sites van
+andere mensen, is de volgende stap het aanvaarden en behandelen van
+de externe commentaar. Dit kan je op verscheidene manieren doen.
 
+- Als je een project zoals [Known](http://withknown.com/) gebruikt,
+  dan ondersteun je waarschijnlijk al indieweb commentaar en dan hoef
+  je niks te ondernemen!
+- Als je een project zoals WordPress gebruikt, dan bestaan er
+  waarschijnlijk reeds plugins waarmee je indieweb commentaar kan je
+  ontvangen. Kijk of de software die je gebruikt in de [project lijst
+  op de wiki](https://indieweb.org/projects) site te vinden is.
+- Als je een eigen project aan het ontwikkelen bent and webmention
+  integratie zelf will programmeren, dan start je best bij de
+  [specificaties](http://webmention.net/) and [deze wiki
+  pagina](https://indieweb.org/webmention) voor tips.
+- Als je snel van start wil gaan met webmention zonder zelf veel te
+  hoeven programmeren, dan kan je als hosted service
+  [webmention.io](http://webmention.io/) in zetten.
+
+Wanneer je webmention ontvangen geinstalleerd hebt op je site, dan
+kan je de implementatie op verscheidene manieren testen om te zien of
+alles goed funktionieert:
+
+- Link naar een van je eigen posts and verstuur een webmention naar
+  jezelf. Dit werkt best als je zeker bent dat het versturen van
+  webmentions via je eigen site goed loopt.
+- Vraag een vriend (of een nieuwe vriend in de [online \#indieweb
+  chat](https://indieweb.org/IRC) om op je post te antwoorden via een
+  webmention.
+- Maak gebruik van de
+  [Checkmention](https://checkmention.appspot.com/) test applicatie
+  om enkele webmention antwoorden naar een post op je site te sturen;
+  dit test niet alleen de implementatie van webmention zelf, maar
+  voert ook enkele onschadelijke XSS aanvallen uit op je site om de
+  veiligheid na te gaan.
+- Als je je publicaties via POSSE verstuurd, implementeer dan
+  [backfeed](https://indieweb.org/backfeed), zo dat wanneer de silo
+  antwoord, je dan likes, reshares en zelfs RSVPs kan parsen en
+  weergeven op je eigen site. Je kan hiervoor gebruik maken van
+  services zoals, [Bridgy](https://www.brid.gy/), of een [server
+  plugin](https://indieweb.org/backfeed#WordPress_Plugins), of
+  doe-het-zelf.
 
 ---
 
