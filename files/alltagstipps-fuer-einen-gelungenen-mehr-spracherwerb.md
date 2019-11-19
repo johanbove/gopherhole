@@ -49,5 +49,50 @@ Setzen Sie Sprachregeln fest, z.B Tischsprüche:
 - "Ich bin die Raupe Nimmersatt, die immer großen Hunger hat und wenn
   sie was zu essen sieht, dann sagt sie guten Appetit."
 
-.. more to come ..  
+Sprechen Sie langsam und deutchlich, versuchen sie Blickkontakt
+herzustellen. Achten Sie auch auf den Blickkontakt ihres Kindes.
+
+Vermeiden Sie Babysprache.
+
+Überfrachten Sie ihr Kind nicht mit Spraches, es "schaltet" sonst ab.
+
+Je besser die Sprachfähigkeit in der "Erstsprache/Muttersprache" ist,
+desto besser ist die Voraussetzung für den Zweitspracherwerb.
+
+Nutzen Sie ihre Herzenssprache.
+
+Reime und Fingerspiele in der Mutter-Vatersprache.
+
+Gemeinsames Lesen von Bilderbüchern in der jeweiligen Sprache.
+Stellen Sie offene Fragen: Was geschieht? Wer macht? ..
+
+Fernsehen hilft nicht, eine Sprache zu erlernen, aber bedienen sie
+sich des Mediums (dem Alter des Kindes entsprechend zeitl. begrenzt)
+Filme, Hörspiele, Musik
+
+Sprechen Sie über das gesehene, bzw. gehörte.
+
+Zeiten oder Räume für die zweite/dritte Sprache einrichten.
+
+Regelmäßige "Sprachstunden" 10-20 Min. bei kleinen Kindern.
+
+Vermitteln sie ihre Sprache und damit auch ihre Kultur beim Kochen,
+Basteln, Malen, Geschichten erzählen, Lesen.
+
+Memory, Lotto, Puzzle, usw. in beiden Sprachen spielen.
+
+Zoobesuche in beiden Sprachen. Mama sage dazu "...", Papa sagt dazu 
+"..."
+
+Besuchen sie entsprechende Gruppen, halten sie Kontakt zu Verwandten
+und Freunden.
+
+Dranbleiben: Kinder können Sprächen, die sie einmal gelernt haben,
+auch wieder verlernen, wenn sie keine Möglichkeit haben, diese
+anzuwenden.
+
+ACHTUNG: Wichtig bleibt dabei, dass dem Kind nichts aufgezwungen
+wird. Lernstress kann zu negativen Assoziationen mit der Sprache
+führen; dadurch können Kinder langfristig die Motivationen und den
+Spaß daran verlieren.
 
