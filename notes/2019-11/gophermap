@@ -1,6 +1,42 @@
 1Home	/	gopher.johanbove.info	70
 1Notes	/notes	gopher.johanbove.info	70
 
+# Wednesday, November 29th, 2019 ####################################
+
+ -- Lots of ideas, simply not enought time to process them all.
+
+Focus is what I need. When I was 16 I went through a dark period of
+my life and my Mom event went to seek professional help, came back
+with advice that I should write; and I did. My writing is not any
+good for anyone else but myself, but it really helps refocussing on
+the things and stuff that really matters. Channeling ideas and
+inklings into something as concrete as a well-formatting and
+grammatically correct English sentence helps.
+
+However, writing these ideas and thoughts down by hand in a notebook
+works even better as there are way less distractions possible,
+compared to a PC with a browser. A digital notebook does however
+offer other advantages. Obviously, digital files are harder to lose,
+if you keep everything stored on good hardware and make 3-2-1 backup
+copies. Paper notebooks are very susceptible to water, dirt and fire.
+And making "backups" is really difficult, unless you have one of
+those super copy-machines available.
+
+Got inspired by reading the following phlog post by James Tomasino:
+
+1re: gopher resilliency	/phlog/20191115-re-gopher-resiliency	gopher.black:70
+
+On another note: I changed my .vimrc configuration to no longer
+format as I type, but I'm displaying a line at the 70 column to show
+me where to return to the next line. The automatic reformatting of
+paragraphs turned out to be annoying while using Vim for more than
+writing Gopher notes.
+
+As you might have guessed already, only me needed this post and
+nobody else. That's the beauty of the Small Internet on Gopher.
+
+---
+
 # Monday, November 18th, 2019 #######################################
 
 Working from home today as the Kita is closed. It is wonderful being
