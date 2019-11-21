@@ -24,7 +24,7 @@ those super copy-machines available.
 
 Got inspired by reading the following phlog post by James Tomasino:
 
-1re: gopher resilliency	/phlog/20191115-re-gopher-resiliency	gopher.black 70
+1re: gopher resilliency	/phlog/20191115-re-gopher-resiliency	gopher.black
 
 On another note: I changed my .vimrc configuration to no longer
 format as I type, but I'm displaying a line at the 70 column to show
