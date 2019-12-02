@@ -1,0 +1,37 @@
+1Home	/	gopher.johanbove.info	70
+1Notes	/notes	gopher.johanbove.info	70
+
+# Monday, December 2, 2019 ##########################################
+
+So I managed to lose an whole entry I started writing in this blog
+note. Not a very good start of the month. Writing this in VS Code.
+
+So far for enjoying Vim. It's been cool, but frustrating, even
+after months of forcing myself to use Vim as much as possible. It's
+just not worth the effort and time really if you can achieve a lot
+more user-friendliness using a modern editor like VS Code.
+Losing the work was the drop that made the bucket overflow.
+
+## Family ###########################################################
+
+It's been a tough week, with N. getting sick and not being able to
+go to the Kita. We had a lot of help from B&M, but they unfortunately
+had to return home yesterday.
+
+N. was really good today, until I had to change his diaper and he had
+to get ready for dinner. He can be so stubborn! He threw a tantrum
+and we cannot keep him sitting on his "time-out" bench anymore as he
+is not willing to stay on it, even if we insist. We need to find
+some other form of putting him in "time-out"...
+
+## Projects #########################################################
+
+Trying to get my "Open Productivity" system going with using
+TaskWarrior and bash scripts, and a very basic PHP script. It works,
+but is not optimal. Trying to figure out how to integrate the publish
+to the Webhost using TaskWarrior's hooks; but it does not seem to
+execute the Bash `aliases`.
+
+Going to try with an actual bash shell script next.
+
+---
