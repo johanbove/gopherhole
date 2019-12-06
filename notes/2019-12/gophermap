@@ -1,6 +1,89 @@
 1Home	/	gopher.johanbove.info	70
 1Notes	/notes	gopher.johanbove.info	70
 
+# Friday, December 6, 2019 ##########################################
+
+Tired. It's been a long week. Haven't been able to really keep up
+with journalling. Hardly managing it using my Bullet Journal.
+
+I've been working on my "Open Productivity" page on my private site.
+Using TaskWarrior export to JSON and an upload to my webhost, which
+is then picked up by a PHP script to parse out the data as HTML.
+I've added bash functions to generate the json files in one command,
+and also `csp` everything to my simple, shared web host.
+
+## Family ###########################################################
+
+N. has been sleeping better; adding a LED night light to his room
+helped, as he can now find his bottle of water himself without having
+to wake up. He still cries if the threw out all three of his
+pacifiers.
+
+He seems to be enjoying video calling lately with his grand-parents.
+
+Today was the KITA event; both E. and I are completely exhausted.
+
+We really notice it when B&M aren't here.
+
+It's been getting colder; up to now we haven't had to really turn on
+the heat in the living room or hallway. The bedroom on the other
+hand has been cold as too much air gathers in the heater. This is due
+to not enough heating water being added to the heating system.
+Luckily today the plumber came by to add the water. The renovated
+system doesn't allow me to add the water myself. The plumber will
+make an adjustment to make that possible again.
+
+Rainy and cold wind, is not a good combination to take the bike to
+work; yet I managed to do it every day.
+
+## Work #############################################################
+
+The Deloitte Christmas party took place yesterday. Had a good time
+seeing old colleagues back and meeting new ones. Left after eating,
+around 21:00. I was still in time to help put N. to bed.
+
+## Stuff ############################################################
+
+The SD-card in the Nokia 8110 4G got corrupted. It seems to have been
+set to "read-only", but there doesn't seem to be a way to reset this
+attribute. The drive is still readable, but it doesn't show any more
+in KaiOS. When I open the drive in Windows, I can ready and copy the
+data, but cannot format the drive, nor can I make any other changes.
+
+Ben Werd created a plan for the next months working on Known CMS.
+Feeling the need to help out with resolving the CSS and JavaScript
+issues, but family time and work-time will make it harder for me to
+actually deliver anything nice and useful.
+
+Had a though earlier that Known might not be popular amongst devs,
+because there is WordPress and Drupal it competes with. And there is
+also Node.js and the whole Blockchain ecology which is calling for
+people's spare-time; Wondering if there is a market in Africa for 
+sites like Known? All it takes is a standard Linux, Apache, MySQL and
+PHP stack (LAMP); which should be cheap to run and easy to maintain.
+But yet again, all development of the open-source project seems to
+take place in the "Western World". Some questions come to mind;
+
+1. Which CMS is popular in Africa?
+2. Which web host is most popular in Kenio or Nigeria?
+3. How much does it cost to own a domain name in these countries?
+4. How do people access the Web?
+
+Assuming one of the hurdles is that most people in Africa probably
+don't own laptops or desktops, or have access to a PC. Schools and 
+libraries are probably the only places where people have access to
+a "work station". Most phone experience are optimized for consuming
+content, but not for creating it; expect for the occasional Tweet or
+Instagram picture upload. Not sure if there's anything I can do here.
+
+Just thinking about all of this doesn't make any difference.
+
+Funny how I don't dare writing out freely on my HTTP site, as I do
+here on the Small Internet. I guess it helps to not have any real
+distractions while I'm immersed in the Small Net...
+
+---
+
 # Monday, December 2, 2019 ##########################################
 
 So I managed to lose an whole entry I started writing in this blog
