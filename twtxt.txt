@@ -1,0 +1,33 @@
+# __            __         __
+#|  |_.--.--.--|  |_.--.--|  |_
+#|   _|  |  |  |   _|_   _|   _|
+#|____|________|____|__.__|____|
+#
+# twtxt is an open, distributed
+# microblogging platform that
+# uses human-readable text files,
+# common transport protocols, and
+# free software.
+#
+# Learn more about twtxt at https://github.com/buckket/twtxt
+#
+# nick: johanbove
+#
+2019-10-25T22:31:54+02:00	Hello, this is twtxt!
+2019-10-25T23:01:33+02:00	Testing pre-tweet and post-tweet hooks - crosses fingers
+2019-10-25T23:06:19+02:00	@<davebucklin https://davebucklin.com/twtxt.txt> Welcome to the IndieWeb! Thanks also for introducing me to #twtxt. Gophering this for sure.
+2019-10-25T23:14:32+02:00	Mirrored on gopher://gopher.johanbove.info/0/twtxt.txt
+2019-10-25T23:29:26+02:00	Reading https://begriffs.com/posts/2016-07-08-returning-original-social-network.html
+2019-10-25T23:30:47+02:00	kas has an amazing twtxt feed: https://enotty.dk/twtxt.txt
+2019-10-25T23:31:55+02:00	domgoergen also has been twtxt tweeting for a while: https://domgoergen.com/twtxt/mdom.txt
+2019-10-25T23:34:07+02:00	Reading https://robbinaer.info/index.php?article93/twtxt
+2019-10-25T23:46:01+02:00	Created an Indieweb.org wiki article about twtxt - help expand it please - https://indieweb.org/twtxt
+2019-10-25T23:48:10+02:00	Reading https://ils.unc.edu/callee/gopherpaper.htm
+2019-10-25T23:59:16+02:00	Requested my #hacktoberfest T-shirt and sticker pack! Happy I finally managed to participate and contribute this year.
+2019-10-26T00:12:23+02:00	Added myself to the user list at https://github.com/mdom/we-are-twtxt
+2019-10-26T00:26:47+02:00	@<ckipp https://chronica.xyz/hallway.txt> https://webring.xxiivv.com/hallway.html looks amazing! How does it work?
+2019-10-26T00:41:12+02:00	@c-keen I just joined :-) Happy there are still other peepz active on twtxt.
+2019-10-26T00:45:34+02:00	@<ckeen http://pestilenz.org/~ckeen/twtxt.txt> I just joined :-) Happy there are still other peepz active on twtxt.
+2019-10-26T13:44:52+02:00	@<kas https://enotty.dk/twtxt.txt> The IndieWeb.org twtxt article is only a stub - me copy-pasting content from other sites - could use some more sections - @t himself found it an interesting concept
+2019-10-26T13:46:19+02:00	Looking at text-first design: https://indieweb.org/text-first_design
+2019-10-26T15:27:06+02:00	Beautiful autumn day today
