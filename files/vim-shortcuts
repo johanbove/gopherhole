@@ -36,4 +36,15 @@ Select until end of line:
 
   v$
 
+Show tab characters:
+
+  :set list
+
+Enter real tab character:
+
+  On Windows / WSL:
+
+     ctrl+q TAB
+
+
 EOF
