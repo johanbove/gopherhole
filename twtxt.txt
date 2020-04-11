@@ -121,3 +121,5 @@
 2020-01-06T16:18:54+0100	@<lucidiot https://tilde.town/~lucidiot/twtxt.txt> [re: abandoned ideas] Thanks for the inspiration! How do you keep track of projects now? Do you know about TaskWarrior?
 2020-01-20T12:01:21+0100	Live long and prosper 🖖
 2020-03-08T15:45:20+01:00	Find me on #scuttlebutt as @4XHLGF4UDOGiS5oqiDUjN97cKVBExloikIIGMiNjHq0=.ed25519
+2020-04-06T22:42:38+02:00	Tempus Fugit
+2020-04-06T23:43:27+02:00	New post on my Gopher site. Back to updating it once a month.
