@@ -1,15 +1,21 @@
 # Welcome to Johan's Gopherhole!
 
-This is a Gopher burrow or Gopher space running on PygoPherd.
+This is a _Gopher burrow_ or _Gopher space_ running on PygoPherd.
+
+> Make sure to keep the gophermap files as these contain most of the content!
 
 ## Status
+
+### 2020-04-13
+
+Still keeping this Gopher site going.
 
 ### 2019-11-02
 
 Mirroring everything on [a private GitHub
-repo](https://github.com/johanbove/gopherhole) as backup for the
-files on my RaspBerry Pi and also to be able to remote edit files;
-even if publishing is not possible until I get home.
+repo](https://github.com/johanbove/gopherhole) as backup for the files on my
+RaspBerry Pi and also to be able to remote edit files; even if publishing is not
+possible until I get home.
 
 ### 2019-10-26
 
