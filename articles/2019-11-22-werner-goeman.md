@@ -16,3 +16,5 @@ for a living as a Web developer and to be able to share good music.
 
 In 1995 I was only 15 years old and was not into PC much yet. Cancer
 sucks.
+
+EOF.

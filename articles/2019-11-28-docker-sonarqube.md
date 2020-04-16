@@ -41,3 +41,5 @@ Run sonar-scanner with:
 Open http://localhost:9000 in your browser of choice.
 
 Log in with ``admin:admin`` and see the project "My Project" show up there.
+
+EOF.
