@@ -1,6 +1,86 @@
 1Home	/	gopher.johanbove.info	70
 1Notes	/notes	gopher.johanbove.info	70
 
+# Thursday, April 16th 2020 #########################################
+
+## Stuff
+
+I did it. I was like, no one way my bid will be the highest. And then
+it was… I won an auction [1] for an MZ-RH1 with working display and
+all accessories and the final bid was €286.
+
+Perhaps it’s because I’ve been stuck in the house for seven weeks and
+I’m not really thinking straight; as I went ahead with looking for
+this MiniDisc player anyway, against my own good reasoning. There are
+more auctions for MZ-RH1s incoming. I think it’s because people have
+been cleaning up their cupboards and attic, while being stuck in the
+house, that these gems are appearing on Ebay more often now.
+
+Now I need to explain this to my better half…
+
+h[1]	Ebay Auction	/URL:https://www.benl.ebay.be/itm/SONY-MZ-RH1-HI-MD-WALKMAN-gebraucht-mit-Zubeh%C3%B6r/202961732644
+
+---
+
+# Tuesday, April 14th 2020 ##########################################
+
+## Family
+
+Still everyone we know and love has been spared from Corona, except
+for us all being stuck at home.
+
+We had a somewhat tough day to day after getting back to work after
+the actually relaxing Easter long weekend.
+
+N. was clearly bored, but also very sweet and clever. He still
+watches a lot of TV. Eventually he even gets a bit bored of it and
+starts playing with his toys.  It doesn’t take long for him to want
+us to join him in the play.
+
+I hope he understands somehow that Mommy and Daddy need to focus on
+work during “office hours”.
+
+Today was the first time he deliberately skipped his day-time nap!
+
+## Stuff ############################################################
+
+No reply from the Ebay seller regarding the strange non-delivery of
+the USB Type-C extension cables. And I’m disappointed the MiniDisc
+recorder wasn’t delivered today. I do understand the strain the
+delivery companies and people must be under during these days.
+
+Didn’t get any updates regarding the “weekly menu” site; doesn’t
+really matter at this time really.
+
+I was able to set up ScuttleButt Oasis v2.16.0 as an independently
+running server which uses the same data as Patchwork. Using Nginx as
+a reverse proxy to be able to access the server from anywhere on our
+Wlan, yet securing access to it with basic_auth.
+
+It works good, and without any JavaScript! But there is definitely
+some room for usability improvements.
+
+Some ideas:
+
+1. Navigational menu on smaller screen sizes (see existing issue)
+2. Expanding the “textarea” publishing screen to full-screen for a 
+   more focused writing experience.
+3. Why aren’t there any “blob” uploads?
+4. How do you start a private note to yourself in Oasis?
+5. Will private posts show up in the Oasis “Search”?
+6. Check if I can get “consolas” to register as the monospace font. 
+   Perhaps I can do this in Firefox?
+
+## Personal #########################################################
+
+My seasonal dandruff is flaring up again like crazy and is very
+itchy. It’s hard for me not to scratch.
+
+And I’m tired, so I’m signing off now and will try to get some good
+night’s rest.
+
+---
+
 # Sunday, April 12th, 2020 ##########################################
 
 Happy Easter!
