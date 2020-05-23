@@ -1,6 +1,40 @@
 1Home	/	gopher.johanbove.info	70
 1Notes	/notes	gopher.johanbove.info	70
 
+# Saturday, May 23th, 2020 ##########################################
+
+## Stuff ############################################################
+
+I've installed Beaker Browser v1 beta 2 and have been working on my
+hyperdrives. My Profile identity is:
+
+<hyper://86fcdeb5ebb4a720f4e5b66fbab67a8051ddf09659cd2622cdeb0de8c4d41267>
+
+I've copied most of the files from the Gopherhole, except for the
+notes section to the HyperDrive. It's a really cool peer-to-peer
+system, like Scuttlebutt, but without the _gossiping_ protocol.
+Your peers need to explicitly access your files for them to be
+"hosted" on their machines. And the whole platform shifted network
+protocols. From `dat://` to `hyper://` - it is possible for dat sites
+to be migrated to hyper, but there was a bug on Windows with that
+tool. That being said, there are still a lot of bugs in the software.
+And the support on Windows is limited as we cannot _watch_ a folder
+to host from yet.
+
+## Family ###########################################################
+
+We're still all at home, and are enjoying the time we get to spent
+together as a family, but we are honestly looking forward to June
+8th. On this day the Kitas in NRW should reopen for all kids again.
+It will be so good for N. to be able to play with other children
+again. I'm really worried how he'll come with the change in
+environments again and the interaction with other kids. He's also
+been watching a lot of videos lately so he'll really need to get some
+assistance and a lot of distraction to get him back in the "no
+watching TV during the Day" normal ways.
+
+---
+
 # Thursday, May 7th, 2020 ###########################################
 
 ## Family ###########################################################
