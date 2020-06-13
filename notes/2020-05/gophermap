@@ -99,7 +99,6 @@ functions. The Webpack build script does to optimizations and we can
 also use SCSS (Sassy CSS). Testing a log in form with two-faktor
 authentication in a sandbox takes time however.
 
-
 ---
 
 # Friday, May 1st, 2020 #############################################
