@@ -129,3 +129,4 @@
 2020-04-30T00:00:00+02:00	I'm enjoying listening to music on my re-discovered #MiniDisc players. Pop in the disc, press play and listen to about 150 minutes of your own music in clear digital quality.
 2020-05-07T21:57:47+02:00	Was feeling super nervous and on-the-edge earlier this evening. A cup of chamomile tea later I am feeling again more relaxed.
 2020-05-16T22:54:58+02:00	Now also on <hyper://86fcdeb5ebb4a720f4e5b66fbab67a8051ddf09659cd2622cdeb0de8c4d41267>
+2020-05-18T14:23:08+0200	Honestly never realized before Beakerbrowser that peer-to-peer could be used to share markdown, JavaScript and html files.

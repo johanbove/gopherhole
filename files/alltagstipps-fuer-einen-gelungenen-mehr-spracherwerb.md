@@ -6,6 +6,9 @@ author: Ulrike Baumann
 published: 2019-11-19
 ---
 
+# Alltagstipps für einen gelungenen (Mehr)-Spracherwerb
+## By Ulrike Baumann
+
 Nur wenn man eine Sprache hört, kann sie auch erwerben.
 
 Zweisprachige Kompetenz bleibt nur erhalten, wenn das Kind mit beiden
@@ -91,7 +94,7 @@ Dranbleiben: Kinder können Sprächen, die sie einmal gelernt haben,
 auch wieder verlernen, wenn sie keine Möglichkeit haben, diese
 anzuwenden.
 
-ACHTUNG: Wichtig bleibt dabei, dass dem Kind nichts aufgezwungen
+**ACHTUNG:** Wichtig bleibt dabei, dass dem Kind nichts aufgezwungen
 wird. Lernstress kann zu negativen Assoziationen mit der Sprache
 führen; dadurch können Kinder langfristig die Motivationen und den
 Spaß daran verlieren.

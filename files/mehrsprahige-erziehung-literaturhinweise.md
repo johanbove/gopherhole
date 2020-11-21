@@ -24,20 +24,20 @@ This list contains recommendations from Ulrike Baumann.
 
 # Links
 
-- www.anadolu-verag.de
-- www.heuber.de/bilibri
-- www.edition-lingua-mundi.com
-- www.kurierderzarin.de
-- www.lmatou.de
-- www.verband-binationaler.de
-- www.mehrsprachigvorlesen.verband-binationaler.de
-- www.nrw.verband-binationaler.de
-- www.sprich-mit-mir.org
-- www.kindergesundheit-info.de/Bundeszentral_für_gesundheitliche_Aufklärung
-- www.bilingual-erziehen.de
-- www.talisa-verlag.de
-- www.bilingus.de
-- www.edition-orient.de
-- www.edition-bilibri.de
-- www.fmks-online.de
-- www.zweisprachigkeit.net
+- <http://www.anadolu-verag.de>
+- <http://www.heuber.de/bilibri>
+- <http://www.edition-lingua-mundi.com>
+- <http://www.kurierderzarin.de>
+- <http://www.lmatou.de>
+- <http://www.verband-binationaler.de>
+- <http://www.mehrsprachigvorlesen.verband-binationaler.de>
+- <http://www.nrw.verband-binationaler.de>
+- <http://www.sprich-mit-mir.org>
+- <http://www.kindergesundheit-info.de/Bundeszentral_für_gesundheitliche_Aufklärung>
+- <http://www.bilingual-erziehen.de>
+- <http://www.talisa-verlag.de>
+- <http://www.bilingus.de>
+- <http://www.edition-orient.de>
+- <http://www.edition-bilibri.de>
+- <http://www.fmks-online.de>
+- <http://www.zweisprachigkeit.net>

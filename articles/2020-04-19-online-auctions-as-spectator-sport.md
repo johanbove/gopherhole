@@ -21,4 +21,5 @@ last auction was particular and I was personally glad the winning bid
 was just a little bit more than what I offered for a similar device
 just last week.
 
+---
 EOF.

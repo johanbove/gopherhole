@@ -4,7 +4,7 @@
   as a fan and a happy supported of the system. The text below is a
   mirror of the content found on the Bullet Journal website.
 
-  Source & Copyright: https://bulletjournal.com
+  Source & Copyright: <https://bulletjournal.com>
 
 ## Who #######
 
