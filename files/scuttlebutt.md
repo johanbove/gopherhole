@@ -10,7 +10,7 @@
 > to assure that content remains unforged as it propagated through
 > the network.
 
-## Resources ########################################################
+## Resources ###
 
 Collecting links to web pages and articles that give more insight.
 

@@ -1,4 +1,4 @@
-# Werner Goeman #####################################################
+# Werner Goeman 
 
 My mom's brother Werner only became 41. He died on December 26, 1995
 after a short intense battle with lung cancer. He was a heavy smoker.

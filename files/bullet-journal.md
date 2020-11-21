@@ -1,4 +1,4 @@
-# Bullet Journal #####################################################
+# Bullet Journal 
 
   Sharing the getting-started document for the Bullet Journal system
   as a fan and a happy supported of the system. The text below is a
@@ -244,7 +244,7 @@ Figuring out what you need your Bullet Journal to be is an important
 part of the process, a process that begins with regularly examining
 how you're spending your time and energy. We form this habit through
 
-### Migration ########################################################
+### Migration ###
 
 Bullet Journal Migration
 

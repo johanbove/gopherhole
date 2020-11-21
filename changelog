@@ -1,97 +1,97 @@
-# Change Log ########################################################
+# Change Log ###
 
-## 2020-06-13 #######################################################
+## 2020-06-13 ##
 
  # Added: new notes for June 2020
 
-## 2020-05-07 #######################################################
+## 2020-05-07 ##
 
  - Added: new notes for May 2020
 
-## 2020-05-01 #######################################################
+## 2020-05-01 ##
 
  - Added: new notes for May 2020
 
-## 2020-04-23 #######################################################
+## 2020-04-23 ##
 
  - Added: new notes for April
 
-## 2020-04-19 #######################################################
+## 2020-04-19 ##
 
  - Added: new notes for April
  - Added: articles/2020-04-19-online-auctions-as-spectator-sport.md
  - Added: articles/2020-04-19-ssb-remove-blob.md
 
-## 2020-04-16 #######################################################
+## 2020-04-16 ##
 
  - Added: new notes for April
  - Added: articles/2020-04-16-ivo-bissoli.md
 
-## 2020-04-11 #######################################################
+## 2020-04-11 ##
 
  - Added: new notes for April
 
-## 2020-04-06 #######################################################
+## 2020-04-06 ##
 
  - Added: new notes for April
 
-## 2020-03-10 #######################################################
+## 2020-03-10 ##
 
  - Removed: ASCII art on the home page
  - Added: new notes for March
 
-## 2020-02-07 #######################################################
+## 2020-02-07 ##
 
  - Added: script files
  - Added: new notes for January and February
 
-## 2019-11-20 #######################################################
+## 2019-11-20 ##
 
 - Added: German language files in /files
 - Added: Phlogroll entry
 
-## 2019-11-09 #######################################################
+## 2019-11-09 ##
 
 - Changed: adding the week day to my note entries.
 - Changed: files/vimrc
 - Added: files/storing-a-password-in-bashrc
 - Added: articles/2019-11-06-indieweb.md
 
-## 2019-10-31 #######################################################
+## 2019-10-31 ##
 
 - Fixed: Restructured the /notes folder with an extra sub-level for
          months
 
-## 2019-10-26 #######################################################
+## 2019-10-26 ##
 
 - Added file: twtxt - a mirror of my twtxt tweets feed
 
-## 2019-10-25 #######################################################
+## 2019-10-25 ##
 
 - Added file: Getting Started with Bullet Journaling
 
-## 2019-10-24 #######################################################
+## 2019-10-24 ##
 
 - Added note: "Gophering Along"
 - Added file: twttxt
 
-## 2019-10-23 #######################################################
+## 2019-10-23 ##
 
 - Played around with formatting again...
 - Added more context to the about file, which is now moved to its
   own folder.
 
-## 2019-10-22 #######################################################
+## 2019-10-22 ##
 
 - Added a `files` folder
 
-## 2019-10-21 #######################################################
+## 2019-10-21 ##
 
 - Fixed some formatting issues in the content files.
 - Fixed the external HURL links
 - Added .abstract files
 
-## 2019-10-20 #######################################################
+## 2019-10-20 ##
 
 - Initial set up of the site served by Pygopherd on the Raspberry Pi3.
 - Figuring out how to use gopher
