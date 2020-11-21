@@ -48,7 +48,7 @@ open gopher files.
 
 The configuration file for Pygopherd is kept in:
 
-  /etc/pygophred/pygopherd.conf
+  /etc/pygopherd/pygopherd.conf
 
 ## Starting and stopping the server
 
