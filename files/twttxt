@@ -19,7 +19,7 @@ integrates well with UNIX command line utilities.
 tl;dr: twtxt is a CLI tool, as well as a format specification for
 self-hosted flat file based microblogging.
 
-## Notes #####
+## Notes ############################################################
 
 Tantek[1]: if you could, it would be great to add its connection
 relevance to IndieWeb people and or principles to the dfn and perhaps

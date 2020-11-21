@@ -1,4 +1,4 @@
-# Storing a password safely using .bashrc and openssl encrpytion ####
+# Storing a password safely using .bashrc and openssl encryption ####
 
 You need to keep entering a password in the terminal or as part of a
 bash script? This how-to will explain how you can safely store your
