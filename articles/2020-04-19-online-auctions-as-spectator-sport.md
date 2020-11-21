@@ -1,4 +1,4 @@
-# Online Auctions as Spectator Sport ################################
+# Online Auctions as Spectator Sport 
 
 Discovered an exciting new online spectator-sport: following Ebay
 auctions for rare(ish), yet popular devices.

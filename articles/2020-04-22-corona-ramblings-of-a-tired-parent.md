@@ -1,4 +1,4 @@
-# Corona Ramblings of a Tired Parent ################################
+# Corona Ramblings of a Tired Parent 
 
 Eight weeks of spending home office working and taking 24/7 care of
 my two and a half year old wonderful boy is starting to bear its

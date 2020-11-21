@@ -1,4 +1,4 @@
-# Removing a blob on Secure Scuttlebutt #############################
+# Removing a blob on Secure Scuttlebutt 
 
 See: <https://github.com/fraction/ssb-blob-prune>
 

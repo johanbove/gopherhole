@@ -1,4 +1,4 @@
-# What is Secure ScuttleButt? #######################################
+# What is Secure ScuttleButt? ##
 
 > *Secure Scuttlebutt (SSB)* is a peer-to-peer communication
 > protocol, mesh network, and self-hosted social media ecosystem.

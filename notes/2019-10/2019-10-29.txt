@@ -1,4 +1,4 @@
-# Journal 2019-10-29 ################################################
+# Journal 2019-10-29 ##
 
 Had a terrible thought earlier in bed that I wanted to end my life.
 Not sure where these dark thoughts are coming from as I have
@@ -57,7 +57,7 @@ see what he's going to be and how he's going to lead his live.
 Live is too precious and I want to still make a difference with mine.
 
 
-## Links #######
+## Links ##
 
 [1] https://vim.fandom.com/wiki/Automatic_formatting_of_paragraphs
 [2] https://duckduckgo.com/?q=wikihow+selbstmord

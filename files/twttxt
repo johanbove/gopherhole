@@ -1,4 +1,4 @@
-# What is twtxt? ####################################################
+# What is twtxt? 
 
 HTTP: https://twtxt.readthedocs.io/en/stable/index.html
 Indieweb wiki: https://indieweb.org/twtxt
@@ -19,7 +19,7 @@ integrates well with UNIX command line utilities.
 tl;dr: twtxt is a CLI tool, as well as a format specification for
 self-hosted flat file based microblogging.
 
-## Notes #######
+## Notes ##
 
 Tantek[1]: if you could, it would be great to add its connection
 relevance to IndieWeb people and or principles to the dfn and perhaps
