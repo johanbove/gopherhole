@@ -1,9 +1,9 @@
 1Home	/	gopher.johanbove.info	70
 1Notes	/notes	gopher.johanbove.info	70
 
-# October 31st, 2019 ##
+# October 31st, 2019
 
-## Work ###
+## Work
 
 Liking the young, lifely spirit in the office lately. On Thursdays,
 which is "donnerstag" in German, we do "Dönertag", after the
@@ -68,9 +68,9 @@ seeing all the colourful fishes and other animals.
 
 ---
 
-# October 30th, 2019 ##
+# October 30th, 2019
 
-## Work ###
+## Work
 
 Sprint review yesterday was good. We're building a web interface to a
 document database using Vue.js. Working with docker images and nginx
@@ -100,7 +100,7 @@ bedroom valve had to keep the temperature for the rest of the night.
 
 The Thermostats are German HomeMatic HM-CC-RT-DN devices[2].
 
-## IndieWeb ####
+## IndieWeb
 
 Still digging Twtxt as a very basic "Twitter-like" experience because
 it is so simple, yet powerful enough to be able to share ideas and
@@ -113,7 +113,7 @@ h[2] HomeMatic Thermostat	/URL:https://www.eq-3.de/produkte/homematic/detail/hom
 
 ---
 
-# October 29th, 2019 ##
+# October 29th, 2019
 
 Had a terrible night. Couldn't catch any sleep. My stomach felt off
 last night and I took a medicin which I thought would help me feel
@@ -135,7 +135,7 @@ seem to stop checking 4chan, 9gag or other time-suckers.
 
 ---
 
-# October 28th, 2019 ##
+# October 28th, 2019
 
 ## Gopher #
 
@@ -145,12 +145,12 @@ contact: mdom [2]
 1[1] Taz.de on Gopher	/	taz.de	70
 h[2] mdom's twtxt feed	/URL:https://domgoergen.com/twtxt/mdom.txt
 
-## Work ###
+## Work
 
 Long day at work - feeling the sprint rush coming in like a gentle
 category 3 thunderstorm. We're getting there!
 
-## Home ###
+## Home
 
 Todo: build a N.-friendly Netflix landing page with his favorite
 shows:
@@ -168,9 +168,9 @@ grid-css based layout.
 
 ---
 
-# October 27th, 2019 ##
+# October 27th, 2019
 
-## Friends ##
+## Friends
 
 Had a great brunch today with friends, and finally saw their new baby
 boy.
@@ -190,7 +190,7 @@ and "Vox Explained" [2] documentaries on Netflix.
 h[1] Inside Bill's Brain (IMDB)	(URL:https://www.imdb.com/title/tt10837476/)
 h[2] Vox Explained (IMDB)	/URL:https://www.imdb.com/title/tt8005374
 
-## Other ####
+## Other
 
 The change from summertime to wintertime is confusing my sense of
 time. Wishing we could just keep the time set to wintertime
@@ -210,13 +210,13 @@ h[2] Visual Studio Code	/URL:https://code.visualstudio.com/
 
 ---
 
-# October 28th, 2019 ##
+# October 28th, 2019
 
-## Family ###
+## Family
 
 Wonderful warm Autumn day. Had a great time in the park with N..
 
-## twtxt ####
+## twtxt
 
 I've set up the twtxt [1] publishing app on WSL on my PC. It works
 great, and it's enlightening to publish it all text-first! I've made
@@ -229,7 +229,7 @@ h[1] twtxt Indieweb article	/URL:https://indieweb.org/twtxt
 
 ---
 
-# October 25th, 2019 ##
+# October 25th, 2019
 
 ## Bullet Journalling #
 
@@ -238,7 +238,7 @@ I keep a Bullet Journal method paper notebook. It's my personal log.
 0Learn Bullet Journal	/files/bullet-journal	gopher.johanbove.info	70
 hLearn about Bullet Journal method	/URL:https://bulletjournal.com/pages/learn
 
-## Tired ####
+## Tired
 
 Keeping it short today as I'm really tired. Last night N. woke up a
 couple of times and it really messed me up. Yay, friday night's as a
@@ -248,9 +248,9 @@ He's wonderful and we love him with all our hearts!
 
 ---
 
-# October 24th, 2019 ##
+# October 24th, 2019
 
-## Gophering along ####
+## Gophering along
 
 I've been spending way too much time on #Gopher servers in the last
 couple of days.
@@ -297,7 +297,7 @@ h[1] Gopher Client For Windows	/URL:http://www.jaruzel.com/gopher/gopher-client-
 
 ---
 
-# October 23rd, 2019 ##
+# October 23rd, 2019
 
 Installed Jaruzel's "Gopher Browser For Windows"[1] and it seems for
 now the best way to "surf" the Gopher World Not-so-Wide Web.
@@ -322,7 +322,7 @@ h[1] Gopher Client For Windows	/URL:http://www.jaruzel.com/gopher/gopher-client-
 
 ---
 
-# October 22nd, 2019 ##
+# October 22nd, 2019
 
 ## Starting to get it - the Gopher Protocol
 
@@ -333,20 +333,20 @@ server plain-text files pretty well too, but of course it doesn't
 come with the hyperlinks. I'm starting to get the idea why Gopher is
 still being used.
 
-## The Phlog format ###
+## The Phlog format
 
 As I'm currently adding content to this file, I'm starting to also
 realize that a single file won't do it. Going to have to add posts to
 its own file. Perhaps I won't keep this up for a long time however.
 
-## Why does Gopher not like UTF-8? ##
+## Why does Gopher not like UTF-8?
 
 A question that's been on my mind today. I've seen the Germans go
 through the trouble of not using their umlauts and other non-ascii
 characters. Perhaps that's the reason why Gopher never really took
 off outside of the US. How do I write UTF-8 content?
 
-## PyGopherd is old ###
+## PyGopherd is old
 
 The Github code repository shows commits from 18 years ago, in 2002
 to be precise.
@@ -362,7 +362,7 @@ How did they do that? - aparently it's all hand-crafted!
 
 ---
 
-# October 21st, 2019 ##
+# October 21st, 2019
 
 ## IndieWeb #
 
@@ -384,7 +384,7 @@ h"Where have all the Gophers gone?"	/URL:https://ils.unc.edu/callee/gopherpaper.
 
 ---
 
-# October 20th, 2019 ##
+# October 20th, 2019
 
 Got intrigued by the Gopher concept after Peter Molnar on the
 Indieweb IRC chat mentioned this:

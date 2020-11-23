@@ -26,7 +26,7 @@ while you remain mindful of your why. The goal of the Bullet Journal
 is to help its practitioners (Bullet Journalists) live intentional
 lives, ones that are both productive and meaningful.
 
-## Learn - The System ##
+## Learn - The System
 
 ### Rapid Logging 
 
@@ -42,7 +42,7 @@ In short, it’s a way of capturing information as bulleted lists.
 
 Let's start with the basics.
 
-### Bullets ##
+### Bullets
 
 If Rapid Logging is the language the BuJo is written in, Bullets are
 the syntax. Bullets are short-form sentences paired with symbols that
@@ -67,7 +67,7 @@ Tasks can have one of five states:
    in Future Log
 5. - = strike-through = Task irrelevant
 
-### Bullet Journal Events ##
+### Bullet Journal Events
 
 Event O
 
@@ -81,7 +81,7 @@ entries short and objective. It will increase the odds of us writing
 them down. The important thing is to have a record of your experience
 so that you can learn from it.
 
-### Bullet Journal Notes ###
+### Bullet Journal Notes
 
 Note –
 
@@ -90,7 +90,7 @@ thoughts, and observations. They're used to capture information or
 data you don't want to forget. This Bullet works well for meeting,
 lecture, or classroom notes.
 
-### Bullet Journal Mixing Bullets ####
+### Bullet Journal Mixing Bullets
 
 Mix and Match
 
@@ -99,7 +99,7 @@ as they bubble up throughout the day. Don't worry about logging them
 in any particular order. The important thing is to get them out of
 your head, and onto the page.
 
-### Bullet Journal Nesting Bullets ###
+### Bullet Journal Nesting Bullets
 
 Nesting
 
@@ -108,7 +108,7 @@ example, nest Notes under an Event to capture important details. Nest
 subtasks under the main Task to break things down into a series of
 steps.
 
-#### Bullet Journal Signifiers ##
+#### Bullet Journal Signifiers
 
 Signifiers
 
@@ -126,7 +126,7 @@ will never be misplaced again!
 € = Money: Track finance and budget; use the $ or other currency sign
 if you wish.
 
-### Bullet Journal Daily Log ####
+### Bullet Journal Daily Log
 
 Putting it together
 
@@ -142,7 +142,7 @@ to locate your content.
 This example is known as the Daily Log. It's the workhorse of the
 Bullet Journal, and one of the four main Collections.
 
-### Bullet Journal Collections ##
+### Bullet Journal Collections
 
 Collections
 
@@ -154,7 +154,7 @@ Let’s take a look at the four core Collections:
 
 The Index, Future Log, Monthly Log, and the Daily Log.
 
-### Bullet Journal Index ###
+### Bullet Journal Index
 
 The Index
 
@@ -170,7 +170,7 @@ Some Collections are recurring and can be spread throughout your
 notebook. These Collections can be indexed as such:
 “Collection Name: 5-10, 23, 34-39”
 
-### Bullet Journal Future Log ###
+### Bullet Journal Future Log
 
 The Future Log
 
@@ -186,7 +186,7 @@ outlines of the future you're actively working towards.
 Tip: Each month, review your Future Log to see if anything can be
 migrated into the new Monthly Log.
 
-### The Bullet Journal Monthly Log ###
+### The Bullet Journal Monthly Log
 
 The Monthly Log
 
@@ -218,7 +218,7 @@ multiple pages if necessary. Don't worry if you run out of space on
 the current page. Just continue on the next free page and make a
 reference to the page's number in your index.
 
-### Bullet Journal Daily Log ####
+### Bullet Journal Daily Log
 
 Daily Log
 
@@ -244,7 +244,7 @@ Figuring out what you need your Bullet Journal to be is an important
 part of the process, a process that begins with regularly examining
 how you're spending your time and energy. We form this habit through
 
-### Migration ###
+### Migration
 
 Bullet Journal Migration
 
