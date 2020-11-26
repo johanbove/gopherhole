@@ -130,3 +130,26 @@
 2020-05-07T21:57:47+02:00	Was feeling super nervous and on-the-edge earlier this evening. A cup of chamomile tea later I am feeling again more relaxed.
 2020-05-16T22:54:58+02:00	Now also on <hyper://86fcdeb5ebb4a720f4e5b66fbab67a8051ddf09659cd2622cdeb0de8c4d41267>
 2020-05-18T14:23:08+0200	Honestly never realized before Beakerbrowser that peer-to-peer could be used to share markdown, JavaScript and html files.
+2020-05-22T14:05:34+02:00	Of course the first thing you do after buying media on DVD is to fire up #Handbrake to make a local copy - those discs are just too fragile!
+2020-05-25T22:13:54+02:00	Who needs games when you can have fun with contributing to open-source!
+2020-07-17T16:26:38+0200	Yeah. I'm still here. Just been busy doing something on Beakerbrowser and Scuttlebutt.
+2020-07-17T16:28:36+0200	That Twitter admin hack shows how important it is to own our own online content and even our own platforms for posting on the Web. Want to learn more? Make yourself a cup of your favorite drink and have a look at https://indieweb.org/Getting_Started
+2020-07-17T16:30:36+0200	We had to move the nice birdfeeder on our balcony because the birds were making too much of a mess and now I feel bad.
+2020-07-27T15:35:56+0200	Since a couple of months on peer-to-peer Web and I'm really convinced that as long as isps do not start messing with firewalls, this could really be the next step in a real Internet of humans.
+2020-08-12T13:39:16+0200	Hello Twtxt from a Xubuntu 18.04 machine!
+2020-08-12T13:42:20+0200	@<Leo https://www.gkbrk.com/twtxt.txt> Sorry to disappoint. I think I have Finger running on my Raspberrypi but didn't make it public.
+2020-08-12T13:43:49+0200	@<prologic https://prologic.github.io/twtxt.txt> I will probably check out twtxt.net later. Can we use it without registering for an account?
+2020-08-12T13:48:46+0200	The Mozilla layoffs are really worrying me about the future of the Web.
+2020-08-16T21:41:23+0200	Fun setting up basic productivity tools with Syncthing and Todo.txt
+2020-08-16T21:44:14+0200	Checking out Todo.txt because it literally is all text files. But will probably still move back to TaskWarrior because I will miss annotations and other features.
+2020-08-16T21:46:18+0200	Signing off for the week. Good night!
+2020-08-21T00:27:27+0200	Trying to get a grasp and take back control over my family's digital assets.
+2020-08-22T00:19:07+0200	Being a Dad is hard as you need to balance being fun with being a parent. But it is really rewarding when all are well and happy.
+2020-09-03T22:23:02+02:00	Getting inspired by the [Burning Man Multiverse 2020](https://kindling.burningman.org/multiverse/)
+2020-09-03T22:24:41+02:00	The personal Internet needs more weirdness
+2020-09-04T16:17:11+0200	Going to have my head shaved on 2020-09-26 for charity. [Info](https://www.stbaldricks.org/participants/mypage/1073209/2020)
+2020-09-23T09:06:26+0200	Another cool advantage of keeping everything in text files is how fast the search indexer of operating systems gives you results.
+2020-11-25T23:32:05+01:00	Now also to be found on Gemini at gemini://gem.johanbove.info - the future looks light and bright!.
+2020-11-25T23:42:47+01:00	@<uninformativ https://www.uninformativ.de/twtxt.txt> Welcome to Twtxt! Liking your introduction article and your Gopherhole is awesome.
+2020-11-25T23:49:54+01:00	Can I interest you in the latest edition of _Tales From The Dork Web_ when it's about _Gopher, Gemini and The Smol Internet_? https://thedorkweb.substack.com/p/gopher-gemini-and-the-smol-internet
+2020-11-26T00:00:04+01:00	Getting started with [Restic](https://restic.readthedocs.io/en/latest/) for my backup needs. It's really neat and fast.
