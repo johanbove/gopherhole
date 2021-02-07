@@ -2,7 +2,7 @@
 title: "Mehrsprachige Erziehung - Literaturhinweise"
 category: family, language, education
 version: 1.0.0
-published: 2019-11-15
+published: "2019-11-15"
 ---
 
 # Mehrsprachige Erziehung - Literaturhinweise

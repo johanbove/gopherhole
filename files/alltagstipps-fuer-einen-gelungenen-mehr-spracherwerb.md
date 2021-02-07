@@ -3,7 +3,7 @@ title: "Alltagstipps für einen gelungenen (Mehr)-Spracherwerb
 category: language, education
 version: 0.1.0
 author: Ulrike Baumann
-published: 2019-11-19
+published: "2019-11-19"
 ---
 
 # Alltagstipps für einen gelungenen (Mehr)-Spracherwerb
