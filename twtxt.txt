@@ -11,7 +11,8 @@
 #
 # Learn more about twtxt at https://github.com/buckket/twtxt
 #
-# nick: johanbove
+# nick = johanbove
+# url = https://johanbove.info/twtxt.txt
 #
 2019-10-25T22:31:54+02:00	Hello, this is twtxt!
 2019-10-25T23:01:33+02:00	Testing pre-tweet and post-tweet hooks - crosses fingers
@@ -158,3 +159,21 @@
 2020-11-26T15:49:05+0100	@<prologic https://prologic.github.io/twtxt.txt> Could you make the polling of your server a little slower please? Thanks.
 2020-11-29T15:53:36+01:00	New gemlog post: ["Towards a Solarpunk future"](gemini://gem.johanbove.info/gemlog/2020-11-23-solarpunk.gmi)
 2020-11-29T18:43:00+01:00	New gemlog post: ["Blogging" by Rakhim](gemini://gem.johanbove.info/gemlog/2020-11-29-rakhim-blogging.gmi)
+2020-12-13T14:43:50+01:00	New gemlog post: [Sad End Of Year festivities](gemini://gem.johanbove.info/gemlog/2020-12-13-sad-christmas.gmi)
+2020-12-13T14:54:53+01:00	Wishing everyone a wonderful, happy and healthy end-of-year time after all.
+2021-01-28T09:27:15+0100	Mirroring my private sites on the IPFS network. Generating my static site using 11ty
+2021-06-23T10:58:28+0200	All is good. Got my first shot of Biontech last week.
+2021-06-23T10:58:54+0200	Hypothes.is is now enabled on my personal site https://johanbove.info - so I can give some insights in what I wrote and it allows for interaction with visitors.
+2021-06-24T09:57:12+0200	Decided to keep the smart-phone out of our bedroom and keep a note book instead. Already feeling lighter and fresher.
+2021-06-25T11:41:12+0200	A beloved colleague passed away after a terrible car accident a couple of days ago. Thoughts go to her family and colleagues.
+2021-06-25T12:50:34+0200	I made <https://johanbove.info/twtxt.html> with a couple of lines of JS today. Makes it a bit easier to read my Twtxt feed online.
+2021-06-25T12:54:39+0200	When tragedy strikes unexpectedly we cannot just go on as if nothing happened. Our minds need to be given time to deal with the blow. So it is necessary to pause and allow ourselves to process and recover.
+2021-06-25T13:10:52+0200	Content-security-policies are an evil necessity. Setting them up securily takes away some fun out of publishing online.
+2021-06-25T14:22:59+0200	STAY SANE + STAY CALM + STAY HEALTHY
+2021-06-25T14:23:30+0200	Semper meliorem facio - Always do better
+2021-06-26T00:06:44+0200	This Loki show is pretty clever and really well-made. Enjoying watching it.
+2021-06-26T00:45:30+0200	Not sure why exactly, but I made sure my Twtxt HTML page renders okay on a Nokia 8110 4G 240px screen.
+2021-06-26T20:28:35+0200	@<darch https://twtxt.net/user/darch/twtxt.txt> Yes, nothing much to it. Full source code is free to use :-) I will probably add some analytics and sorting options later.
+2021-06-26T20:30:02+0200	@<prologic https://twtxt.net/user/prologic/twtxt.txt> Thanks. Nothing much to it. Perhaps I'll make it better later.
+2021-06-26T22:56:26+0200	@<von https://tilde.town/~von/twtxt.txt> Welcome back!
+2021-06-26T23:41:39+0200	Had a great day at the Leverkusen Neuland park and the Langenfeld Wasserski place with my family!
