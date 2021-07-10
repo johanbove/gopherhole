@@ -14,6 +14,19 @@
 # nick = johanbove
 # url = https://johanbove.info/twtxt.txt
 #
+# follow = davebucklin https://davebucklin.com/twtxt.txt
+# follow = ckeen http://pestilenz.org/~ckeen/twtxt.txt
+# follow = kas https://enotty.dk/twtxt.txt
+# follow = mkdom https://domgoergen.com/twtxt/mdom.txt
+# follow = robbinaer https://robbinaer.info/twtxt.txt
+# follow = von https://tilde.town/~von/twtxt.txt
+# follow = nblade http://nblade.sdf.org/twtxt/twtxt.txt
+# follow = mdosch https://mdosch.de/twtxt.txt
+# follow = lucidiot https://tilde.town/~lucidiot/twtxt.txt
+# follow = uninformativ https://www.uninformativ.de/twtxt.txt
+# follow = darch https://twtxt.net/user/darch/twtxt.txt
+# follow = prologic https://twtxt.net/user/prologic/twtxt.txt
+#
 2019-10-25T22:31:54+02:00	Hello, this is twtxt!
 2019-10-25T23:01:33+02:00	Testing pre-tweet and post-tweet hooks - crosses fingers
 2019-10-25T23:06:19+02:00	@<davebucklin https://davebucklin.com/twtxt.txt> Welcome to the IndieWeb! Thanks also for introducing me to #twtxt. Gophering this for sure.
@@ -35,18 +48,10 @@
 2019-10-26T21:37:14+02:00	Going to see Terminator Dark Fate next tuesday - somewhat big expectations
 2019-10-26T22:02:41+02:00	Fixed the microformats2 u-url links on my homepage so vcards download correctly with http://h2vx.com/vcf/
 2019-10-27T22:09:10+01:00	Reading https://medium.com/@anildash/the-lost-infrastructure-of-social-media-d2b95662ccd3
-2019-10-27T22:21:47+01:00	// follow davebucklin https://davebucklin.com/twtxt.txt
-2019-10-27T22:22:34+01:00	// follow ckeen http://pestilenz.org/~ckeen/twtxt.txt
-2019-10-27T22:22:56+01:00	// follow kas https://enotty.dk/twtxt.txt
-2019-10-27T22:23:21+01:00	// follow mkdom https://domgoergen.com/twtxt/mdom.txt
-2019-10-27T22:23:50+01:00	// follow robbinaer https://robbinaer.info/twtxt.txt
-2019-10-27T22:24:08+01:00	// follow von https://tilde.town/~von/twtxt.txt
 2019-10-27T22:29:29+01:00	Discovered txtnish by mdom https://github.com/mdom/txtnish
 2019-10-27T22:40:41+01:00	Reading https://idlewords.com/talks/website_obesity.htm
 2019-10-27T22:43:44+01:00	// todo Create a Kaios client for twtxt
 2019-10-27T22:46:39+01:00	Known 1.0 is released https://www.marcus-povey.co.uk/2019/10/27/known-1-0-out-of-the-door/
-2019-10-27T22:48:47+01:00	// follow nblade http://nblade.sdf.org/twtxt/twtxt.txt
-2019-10-27T22:51:02+01:00	// follow mdosch https://mdosch.de/twtxt.txt
 2019-10-27T23:18:43+01:00	Added clients and articles sections and added domgoergen's twtxt.txt to https://indieweb.org/twtxt
 2019-10-27T23:45:50+01:00	Updated my daily journal at gopher://gopher.johanbove.info:70/notes
 2019-10-28T08:57:34+01:00	My gopher site is about 38K big - still plenty of space left on the 1.24MB floppy disk
@@ -180,3 +185,20 @@
 2021-06-28T10:11:54+0200	Coming back to work today, I found myself still very much grieving for the sudden loss of our dear colleague Filiz - finding some solace in the words of the beautiful song "I grieve" by Peter Gabriel
 2021-06-28T10:14:22+0200	After building websites and styling for about 20 years now I still don't see the difference between italic and oblique.
 2021-06-28T23:15:01+0200	Restarted my paper bullet journalling as a form of digital detoxing - zen in pen and paper
+2021-06-29T10:59:21+0200	The flavours of rosmarin and nutella fit together, right?
+2021-06-29T11:19:15+0200	To add another abstraction layer or not, that is the question.
+2021-06-29T11:28:11+0200	Look for overcast in Düsseldorf with a temperature of 22.7°C. No rain is expected at this time. Expect a gentle breeze from the WestSouthWest.
+2021-06-29T11:32:40+0200	The weather of the moment brought to you with the command ``tweet "$(weather)"``.
+2021-06-30T11:56:58+0200	Working with Web components feels a bit like {insert fav fantasy world here} with [concepts](https://developers.google.com/web/fundamentals/web-components/shadowdom) like the Shadow Dom and the Light Dom
+2021-06-30T12:14:19+0200	Anyone made a Drum & Bass / Dubstep remix of "Fuel to Fire" by Agnes Obel yet?
+2021-06-30T20:08:00+0200	Jake explains [how to correctly encode data for POST requests](https://jakearchibald.com/2021/encoding-data-for-post-requests/) as no AI can.
+2021-06-30T22:53:45+0200	I feel like I only scratched the surface of what can be done with IPFS.
+2021-07-01T10:01:04+0200	The immersive beats and the haunting vocals in "Silent Shout" by The Knife still sound like they came from the future even-though the song was released in 2006...
+2021-07-01T11:19:27+0200	TIL that changing a .bashrc alias to a bash function requires you to restart the terminal as calling `source ~/.bashrc` does not change the alias to the function call.
+2021-07-01T13:20:42+0200	The [Weaving The Web Book](https://www.w3.org/People/Berners-Lee/Weaving/Overview.html) by Tim Berners-Lee should be a required read for anyone building on the Web.
+
+2021-07-07T10:31:34+0200	I will miss being able to multi-task during long meetings while working remotely if I need to get back in the office.
+2021-07-07T11:15:23+0200	I always need to look up how to use pbcopy. It's counter-intuitive to me.
+2021-07-09T10:37:03+0200	I miss David Bowie
+2021-07-10T23:06:13+0200	Making sure my personal profile site is navigatable using a keyboard only for fun
+2021-07-10T23:19:51+0200	So I should really try setting up a Restic repo on an IPFS/IPNS hash.
